@@ -124,16 +124,12 @@ skills:
       - name: Piano
         description: ''
         percent: 60
-        icon: piano
+        icon: 
       - name: Anime
         description: ''
         percent: 100
         icon: Movie
      
-
-languages:
-  - name: English: Fluent
-  - name: Vietnamese: Native Speaker
  
 
 # Awards.
