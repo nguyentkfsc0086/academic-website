@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Nguyen Tran
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Nguyen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nguyen
+last_name: Tran
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undegrad student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:nguyentrankhoi1201@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+ # - icon: brands/x
+   # url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/nguyn04
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/nguyentkfsc0086
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/nguyn04
+  #- icon: academicons/google-scholar
+   # url: https://scholar.google.com/
+ # - icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Biology / Bioinformatics
+  - Computer Vision
+  - Machine Learning
 
 education:
   - area: PhD Artificial Intelligence
