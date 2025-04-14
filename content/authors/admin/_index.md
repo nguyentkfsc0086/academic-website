@@ -3,7 +3,7 @@
 title: Nguyen Tran
 
 # Name pronunciation (optional)
-name_pronunciation: Nguyen
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Nguyen
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/nguyentkfsc0086
   - icon: brands/linkedin
-    url: https://www.linkedin.com/nguyn04
+    url: https://www.linkedin.com/nguyentran04
   #- icon: academicons/google-scholar
    # url: https://scholar.google.com/
  # - icon: academicons/orcid
@@ -52,37 +52,30 @@ interests:
   - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
+  - area: BS Computer Science
+    institution: University of Massachusetts at Lowell
+    date_start: 2025-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: /4.0
+
+      
+  - area: AS Computer Science
+    institution: Bunker Hill Community College
+    date_start: 2023-01-23
+    date_end: 2025-05-16
+    summary: |
+      GPA: 3.0/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Calculus 1, 2, 3
+      - Linear Algebra
+      - Ordinary Differential Equations
+      - Data Structure
+      - C++ Programming
+      - Java Programming
+      - SQL Programming
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -116,7 +109,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
         percent: 100
         icon: chart-bar
@@ -128,26 +121,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Piano
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: piano
+      - name: Anime
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: Movie
+     
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English: Fluent
+  - name: Vietnamese: Native Speaker
+ 
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +170,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Computer Science and Mathematics student in Bunker Hill Community College and will transfer to UMass Lowell in Fall 2025 with Computer Science major (Hopefully double major in Math and minor in Biology) with a concentration in Bioinformatics/Cheminformatics, I am actively looking for any Reaseach Assistant available.
