@@ -47,7 +47,8 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Computational Biology / Bioinformatics
+  - Computational Biology
+  - Bioinformatics
   - Computer Vision
   - Machine Learning
 
@@ -143,4 +144,4 @@ skills:
 
 ## About Me
 
-I'm a Computer Science and Mathematics student in Bunker Hill Community College and will transfer to UMass Lowell in Fall 2025 with Computer Science major (Hopefully double major in Math and minor in Biology) with a concentration in Bioinformatics/Cheminformatics, I am actively looking for any Reaseach Assistant available.
+I'm a Computer Science and Mathematics student in Bunker Hill Community College and will transfer to UMass Lowell in Fall 2025 with Computer Science major with a concentration in Bioinformatics/Cheminformatics.
