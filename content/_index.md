@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/Academic_Resume.pdf
     design:
-      css_class: assets/themes/blue.css
+      css_class: /Users/nguyentran/Library/CloudStorage/OneDrive-Personal/academic-website/assets/themes/blue.css
       background:
         color: blue
         image:
@@ -57,8 +57,8 @@ sections:
     id: news
     content:
       title: Recent News
-      subtitle: ''
-      text: ''
+      subtitle: ""
+      text: ""
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
@@ -92,7 +92,7 @@ sections:
         <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
 
         Easily build anything with blocks - no-code required!
-        
+
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started
