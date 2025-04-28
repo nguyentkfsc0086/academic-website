@@ -1,7 +1,6 @@
 ---
 sections:
   - block: markdown
-    id: about-me
     content:
       title: Introduction
       subtitle: 
