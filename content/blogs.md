@@ -1,0 +1,11 @@
+---
+sections:
+  - block: markdown
+    id: about-me
+    content:
+      title: Introduction
+      subtitle: 
+      text: Hi, I'm Nguyen from Can Tho, Vietnam. I'm currently an international student in UMass Lowell pursuring 2 major Computer Science and Math hehe
+    design:
+      columns: '1'
+---
