@@ -8,7 +8,7 @@ main:
     url: 
     weight: 10
   - name: Publication
-    url: /puclication
+    url: /publication
     weight: 11
   - name: Blog
     url: /#blog
@@ -22,3 +22,5 @@ main:
   - name: Notes
     url: notes/
     weight: 40
+  - name: List 100
+    url: list100/
