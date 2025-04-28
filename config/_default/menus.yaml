@@ -11,16 +11,16 @@ main:
     url: /publication
     weight: 11
   - name: Blog
-    url: /#blog
+    url: /blog
     weight: 13
   - name: Experience
-    url: experience/
+    url: /experience
     weight: 20
   - name: Projects
-    url: projects/
+    url: /projects
     weight: 30
   - name: Notes
-    url: notes/
+    url: /notes
     weight: 40
   - name: List 100
-    url: list100/
+    url: /list100
