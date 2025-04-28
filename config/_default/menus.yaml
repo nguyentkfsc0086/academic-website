@@ -5,22 +5,22 @@
 
 main:
   - name: About me
-    url: /about-me
+    url: about-me/
     weight: 10
   - name: Publication
-    url: /#publication
+    url: publication/
     weight: 11
   - name: Blogs
-    url: /#blogs
+    url: blogs/
     weight: 13
   - name: Experience
-    url: /#experience
+    url: experience/
     weight: 20
   - name: Projects
-    url: /#projects
+    url: projects/
     weight: 30
   - name: Notes
-    url: /#notes
+    url: notes/
     weight: 40
   - name: List 100
-    url: /#list100
+    url: list100/
