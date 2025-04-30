@@ -1,5 +1,5 @@
 ---
-title: 100 things I wanted to do before I die
+title: List 100
 type: landing
 sections:
   - block: markdown
