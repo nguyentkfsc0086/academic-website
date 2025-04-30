@@ -5,7 +5,7 @@ sections:
   - block: markdown
     id: publication
     content:
-      title: My academic workd
+      title: My academic works
       subtitle: 
       text: Everything still in progress, staytune for the next update!
     design:

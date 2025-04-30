@@ -23,4 +23,4 @@ main:
     url: notes/
     weight: 40
   - name: List 100
-    url: list100/
+    url: list-100/
