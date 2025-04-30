@@ -1,10 +1,13 @@
 ---
+title: Notes
+type: landing
 sections:
   - block: markdown
+    id: publication
     content:
-      title: Introduction
+      title: My notes
       subtitle: 
-      text: A place to upload my notes
+      text: Everything still in progress, staytune for the next update!
     design:
       columns: '1'
 ---

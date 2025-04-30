@@ -1,18 +1,13 @@
 ---
-# Page title
-title: About Me
-# Page type - we want a landing page (such as a homepage)
+title: Experience
 type: landing
-
-# Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
-    id: about-me
+    id: publication
     content:
-      title: Introduction
+      title: My academic workd
       subtitle: 
-      text: Hi, I'm Nguyen from Can Tho, Vietnam. I'm currently an international student in UMass Lowell pursuring 2 major Computer Science and Math hehe
+      text: Everything still in progress, staytune for the next update!
     design:
       columns: '1'
-
 ---

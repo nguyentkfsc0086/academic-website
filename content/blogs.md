@@ -1,10 +1,13 @@
 ---
+title: Blogs
+type: landing
 sections:
   - block: markdown
+    id: blogs
     content:
-      title: Introduction
+      title: My blogs in tech, life, etc...
       subtitle: 
-      text: Hi, I'm Nguyen from Can Tho, Vietnam. I'm currently an international student in UMass Lowell pursuring 2 major Computer Science and Math hehe
+      text: Everything still in progress, staytune for the next update!
     design:
       columns: '1'
 ---
