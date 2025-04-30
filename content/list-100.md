@@ -3,9 +3,9 @@ title: List 100
 type: landing
 sections:
   - block: markdown
-    id: publication
+    id: list100
     content:
-      title: My academic workd
+      title: 100 things I want to do before I die
       subtitle: 
       text: Everything still in progress, staytune for the next update!
     design:
