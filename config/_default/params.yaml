@@ -37,7 +37,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      icon: 'logo.png'
+      icon: "assets/media/logo.png"
       text: "Nguyen Tran"
 
 
@@ -61,4 +61,4 @@ design:
     gradient_angle: 180
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
-favicon = '/Users/nguyentran/Library/CloudStorage/OneDrive-Personal/academic-website/assets/media/logo.png'
+
