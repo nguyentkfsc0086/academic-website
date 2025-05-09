@@ -30,6 +30,7 @@ marketing:
 
 # Site header
 header:
+  favicon: "assets/media/logo.png"
   navbar:
     enable: true
     blox: "navbar"
