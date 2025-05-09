@@ -30,7 +30,7 @@ marketing:
 
 # Site header
 header:
-  favicon: "assets/media/logo.png"
+  favicon: 'assets/media/logo.png'
   navbar:
     enable: true
     blox: "navbar"
@@ -38,7 +38,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      icon: "assets/media/logo.png"
+      icon: 'assets/media/logo.png'
       text: "Nguyen Tran"
 
 
