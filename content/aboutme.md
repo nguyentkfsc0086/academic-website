@@ -14,16 +14,4 @@ sections:
       text: Hi, I'm Nguyen from Can Tho, Vietnam. I'm currently an international student in UMass Lowell pursuring 2 major Computer Science and Math hehe
     design:
       columns: '1'
-author:
-  name: "John Doe"
-date: 2019-10-08
-linktitle: Amet Mauris
-type:
-- post
-- posts
-title: Amet Mauris
-eventname: Conference
-eventlocation: San Francisco, CA  
-weight: 10
-
 ---
