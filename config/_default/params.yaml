@@ -38,7 +38,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      icon: 'assets/media/logo.png'
+      logo: 'assets/media/logo.png'
       text: "Nguyen Tran"
 
 
