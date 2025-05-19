@@ -7,7 +7,10 @@ sections:
     content:
       title: 100 things I want to do before I die
       subtitle: 
-      text: Everything still in progress, staytune for the next update!
+  - [ ] a task list item
+  - [ ] list syntax required
+  - [ ] incomplete
+  - [x] completed 
     design:
       columns: '1'
 ---
