@@ -6,7 +6,7 @@ sections:
     id: list100
     content:
       title: "100 things I want to do before I die"
-      body:
+      body: |
         - [ ] a task list item  
         - [ ] list syntax required  
         - [ ] incomplete  
