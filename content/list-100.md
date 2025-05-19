@@ -7,11 +7,11 @@ sections:
     content:
       title: "100 things I want to do before I die"
       subtitle: ""
-      body: |
+      body:
         - [ ] a task list item  
         - [ ] list syntax required  
         - [ ] incomplete  
         - [x] completed  
     design:
-      columns: '1'
+      columns: '2'
 ---
