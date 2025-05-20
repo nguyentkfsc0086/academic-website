@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-events
+  - block:
     content:
       username: admin
     design:

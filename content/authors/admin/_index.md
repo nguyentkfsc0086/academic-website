@@ -77,20 +77,6 @@ education:
       - C++ Programming
       - Java Programming
       - SQL Programming
-
-events:
-  - title: HackHarvard 2024
-    location: Harvard University
-    date: 2024-10-20
-    summary: |
-      Participated in HackHarvard 2024 with a team, developed an ASL-to-English translation app.
-
-  - title: Accepted to UMass Lowell
-    location: UMass Lowell
-    date: 2024-12-15
-    summary: |
-      Received admission offer for Fall 2025 transfer to the Computer Science program.
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 
