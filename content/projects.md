@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Project'
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: My technical projects
-      text: This is all of my technical projects keke
+      title: deo biet noi gi
       filters:
         folders:
           - projects
