@@ -1,19 +1,15 @@
 {{ define "main" }}
-<h1 class="text-3xl font-bold text-green-800 mb-8">{{ .Title }}</h1>
 <div class="timeline-container">
-  {{ range .Params.timeline }}
-    <div class="timeline-card">
-      <div class="timeline-dot"></div>
-      <div class="timeline-content">
-        <p class="timeline-year">{{ .year }}</p>
-        <h3 class="timeline-title">{{ .title }}</h3>
-        <ul>
-          {{ range .points }}
-            <li>{{ . }}</li>
-          {{ end }}
-        </ul>
-      </div>
-    </div>
+  <div class="timeline-line">
+    {{ range $index, $element := .Scratch.Get "timelineMarkers" }}
+      <div class="timeline-marker" style="top: {{ mul $index 25 }}%"></div>
+    {{ end }}
+  </div>
+  
+  <div class="timeline-entries">
+    {{ .Inner }}
+  </div>
+</div>
   {{ end }}
 </div>
 {{ end }}
