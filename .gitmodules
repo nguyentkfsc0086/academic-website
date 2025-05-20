@@ -1,0 +1,3 @@
+[submodule "assets/themes/timeline"]
+	path = assets/themes/timeline
+	url = https://github.com/s4n7h0/hugo-theme-timeline
