@@ -1,0 +1,19 @@
+{{ define "main" }}
+<h1 class="text-3xl font-bold text-green-800 mb-8">{{ .Title }}</h1>
+<div class="timeline-container">
+  {{ range .Params.timeline }}
+    <div class="timeline-card">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <p class="timeline-year">{{ .year }}</p>
+        <h3 class="timeline-title">{{ .title }}</h3>
+        <ul>
+          {{ range .points }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  {{ end }}
+</div>
+{{ end }}
