@@ -67,7 +67,7 @@ education:
     date_start: 2023-01-23
     date_end: 2025-05-16
     summary: |
-      GPA: 3.0/4.0
+      GPA: 3.2/4.0
       
       Courses included:
       - Calculus 1, 2, 3
@@ -81,6 +81,11 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+event:
+  - name: What happening
+    items:
+      - name: Go to Bunker Hill
+      - name: Go to UMass Lowell
 skills:
   - name: Technical Skills
     items:

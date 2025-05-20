@@ -1,13 +1,18 @@
 ---
-title: About me
+title: 'About me'
+date: 2023-10-24
 type: landing
+
+design:
+  spacing: '5rem'
+
+# Note: `username` refers to the user's folder name in `content/authors/`
+
+# Page sections
 sections:
-  - block: markdown
-    id: publication
-    content:
-      title: Hu hu hu
-      subtitle: 
-      text: Everything still in progress, staytune for the next update!
-    design:
-      columns: '1'
+- block: resume-event
+  content:
+    title: My life in a nutshell
+    username: admin
+
 ---
