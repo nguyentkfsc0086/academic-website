@@ -1,11 +1,11 @@
 ---
-title: List 100
+title: Publication
 type: landing
 sections:
   - block: markdown
     id: publication
     content:
-      title: 100 things I want to do before I die
+      title: My academic works
       subtitle: 
       text: Everything still in progress, staytune for the next update!
     design:

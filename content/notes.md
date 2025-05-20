@@ -1,13 +1,23 @@
 ---
-title: Notes
+title: 'Notes'
+date: 2024-05-19
 type: landing
+
+design:
+  # Section spacing
+  spacing: '5rem'
+
+# Page sections
 sections:
-  - block: markdown
-    id: publication
+  - block: collection
     content:
-      title: My notes
-      subtitle: 
-      text: Everything still in progress, staytune for the next update!
+      title: My personal notes
+      text: This is my collection of notes
+      filters:
+        folders:
+          - notes
     design:
-      columns: '1'
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---

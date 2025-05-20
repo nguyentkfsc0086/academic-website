@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: My technical projects
-      text: This is all of my technical projects keke
+      title: My Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - projects
+          - project
     design:
       view: article-grid
       fill_image: false
