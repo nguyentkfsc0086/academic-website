@@ -13,5 +13,5 @@ sections:
         - [ ] Play a piano concerto with a symphony
         - [ ] HEHEHHEE
     design:
-      columns: '1'
+      columns: 1
 ---
