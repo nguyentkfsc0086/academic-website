@@ -3,7 +3,7 @@ title: About me
 type: landing
 
 sections:
-  - block:
+  - block: markdown
     content:
       title: My life in a nutshell
       # Date format for experience
