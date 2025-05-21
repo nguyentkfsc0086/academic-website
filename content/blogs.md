@@ -14,8 +14,8 @@ sections:
       title: My blog posts
       text: This is my collection of blog entries and thoughts.
     filters:
-    folders:
-        - blogs
+        folders:
+            - blogs
 
     design:
       view: article-grid
