@@ -13,10 +13,9 @@ sections:
     content:
       title: My blog posts
       text: This is my collection of blog entries and thoughts.
-    filters:
+      filters:
         folders:
-            - blogs
-
+          - blogs
     design:
       view: article-grid
       fill_image: false
