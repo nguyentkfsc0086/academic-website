@@ -3,9 +3,9 @@ title: About me
 type: landing
 
 sections:
-  - block: experience
+  - block: about me
     content:
-      title: Experience
+      title: My life in a nutshell
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
