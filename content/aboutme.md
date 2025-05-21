@@ -1,6 +1,6 @@
 ---
 # Page title
-title: About me
+title: Machine Learning
 # Page type - we want a landing page (such as a homepage)
 type: landing
 

@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Differential equations
 type: landing
 
 sections:
