@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Machine Learning
 type: landing
 
 sections:
