@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: My personal notes
-      text: This is my collection of notes
+      title: My blog posts
+      text: This is my collection of blog entries and thoughts.
       filters:
         folders:
           - blogs
