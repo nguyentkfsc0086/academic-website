@@ -1,9 +1,13 @@
 ---
-title: Rubik Solver
+title: scikit-learn
 date: 2023-10-26
-external_link: 'https://www.overleaf.com/project/67d72670c158842f9ffa32e4'
-
-text: I love UML
+external_link: https://github.com/scikit-learn/scikit-learn
+tags:
+  - Hugo
+  - Wowchemy
+  - Markdown
 ---
 
+scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
 
+<!--more-->
