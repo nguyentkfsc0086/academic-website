@@ -3,7 +3,6 @@ title: Differential equations
 type: landing
 
 sections:
-  - block: markdown
     content:
       title: My life in a nutshell
       # Date format for experience

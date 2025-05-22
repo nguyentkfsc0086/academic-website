@@ -3,7 +3,6 @@ title: Machine Learning
 type: landing
 
 sections:
-  - block: markdown
     content:
       title: My life in a nutshell
       # Date format for experience

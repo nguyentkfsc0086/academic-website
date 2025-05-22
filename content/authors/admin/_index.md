@@ -121,4 +121,4 @@ skills:
 
 ## About Me
 
-I'm a Computer Science and Mathematics student in Bunker Hill Community College and will transfer to UMass Lowell in Fall 2025 with Computer Science major with a concentration in Bioinformatics/Cheminformatics.
+I'm an incoming junior at the University of Massachusetts Lowell major in Computer Science and Mathematics. I love to apply my knowledge in Computer Science into the Biology, Healthcare field. I'm currently working on an independence project under the advising of Professor Rachel Melamed in Biology Department of the Kennedy College of Sciences, UMass Lowell.
