@@ -19,5 +19,5 @@ sections:
       # Two-column layout
       columns: '2'
       # 'cards' gives the visual style shown in your screenshot
-      view: cards
+      view: showcase
 ---
