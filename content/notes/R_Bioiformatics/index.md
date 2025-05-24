@@ -21,11 +21,11 @@ Function object: An object that perform tasks on data object, it can be import f
 There is 2 ways to work with data in R: \
     - Directly: import from the keyboard
     - Indirectly: import through a file
-We can create our form of data object (data structure) if needed for the job. But R has a set of standard data: 
+We can create our form of data object (data structure) if needed for the job. But R has a set of standard data: \
     - Scalar \
     - Vector \
     - Factor \
-    - Matrix \ 
+    - Matrix \
     - Array \
     - List \
     - Data frame\
@@ -34,7 +34,7 @@ Data objects generally have **3 properties**: \
     - Type: One of the data forms that we mentioned above \
     - Value \
     - Name \
-Sometimes we don't need to define the name of the object but we should always provide a comment that explain about the name of the objects \
+Sometimes we don't need to define the name of the object but we should always provide a comment that explain about the name of the objects
 ### Type of data objects in R
 **Scalar**
 This is the simplest type of an object. \
