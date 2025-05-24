@@ -19,21 +19,21 @@ Data object: An object that hold the data that we assigned
 Function object: An object that perform tasks on data object, it can be import from a package or written from scratch. Some popular tasks that function object do is calculation, graphical presentation,....
 ### Structuring Data with Object
 There is 2 ways to work with data in R: \
-    - Directly: import from the keyboard
-    - Indirectly: import through a file
+   >>> - Directly: import from the keyboard \
+   >>> - Indirectly: import through a file
 We can create our form of data object (data structure) if needed for the job. But R has a set of standard data: \
-    - Scalar \
-    - Vector \
-    - Factor \
-    - Matrix \
-    - Array \
-    - List \
-    - Data frame\
+   >>> - Scalar \
+   >>> - Vector \
+   >>> - Factor \
+   >>> - Matrix \
+   >>> - Array \
+   >>> - List \
+   >>> - Data frame\
 The different types of data object handle different types of data (characters, numerics,...)
 Data objects generally have **3 properties**: \
-    - Type: One of the data forms that we mentioned above \
-    - Value \
-    - Name \
+   >>> - Type: One of the data forms that we mentioned above \
+   >>> - Value \
+   >>> - Name \
 Sometimes we don't need to define the name of the object but we should always provide a comment that explain about the name of the objects
 ### Type of data objects in R
 **Scalar**
