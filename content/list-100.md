@@ -5,13 +5,15 @@ sections:
   - block: markdown
     id: publication
     content:
-      title: 100 things I want to do before I die
+      title: My bucket list
       subtitle: 
       text: |
 
-        - [ ] Get a PhD
+        - [ ] Get a PhD in Computational Biology, Bioinformatics,....
         - [ ] Play a piano concerto with a symphony
-        - [ ] HEHEHHEE
+        - [ ] Mentor (at least) a person to apply to grad shcool
+        - [ ] Retire my parents
     design:
       columns: 1
 ---
+Please let me know if you have any recommendation
