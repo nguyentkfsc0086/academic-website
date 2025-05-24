@@ -18,11 +18,11 @@ Everything about R is about create and operate objects. There is 2 types of obje
 Data object: An object that hold the data that we assigned
 Function object: An object that perform tasks on data object, it can be import from a package or written from scratch. Some popular tasks that function object do is calculation, graphical presentation,....
 ### Structuring Data with Object
-```markdown
+
 There is 2 ways to work with data in R: 
-    - Directly: import from the keyboard 
-    - Indirectly: import through a file
-```
+    &emsp;&emsp; - Directly: import from the keyboard 
+    &emsp;&emsp; - Indirectly: import through a file
+
 We can create our form of data object (data structure) if needed for the job. But R has a set of standard data: \
     - Scalar \
     - Vector \
