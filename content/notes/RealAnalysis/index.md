@@ -1,7 +1,7 @@
 ---
 title: Real Analysis
 date: 2023-10-26
-tag: 
+tags: 
     - Math
     - UML
 ---
