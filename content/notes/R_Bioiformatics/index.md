@@ -20,7 +20,7 @@ Function object: An object that perform tasks on data object, it can be import f
 ### Structuring Data with Object
 
 There is 2 ways to work with data in R: \
-    &emsp;&emsp; - Directly: import from the keyboard 
+    &emsp;&emsp; - Directly: import from the keyboard \
     &emsp;&emsp; - Indirectly: import through a file
 
 We can create our form of data object (data structure) if needed for the job. But R has a set of standard data: \
