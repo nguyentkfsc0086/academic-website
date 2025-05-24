@@ -18,8 +18,10 @@ sections:
         - [ ] 7. Get a PhD in Computational Biology, Bioinformatics,....
         - [ ] 8. Teach a college level class
         - [ ] 9. Conduct a research
-        - [ ] 10. 
+        - [ ] 10. Go to a performance of Dang Thai Son before he retire :(
+        - [ ] 11. Cook Bun Bo by myself
+        Please let me know if you have any recommendation
     design:
-      columns: 1
+      columns: 2
 ---
-Please let me know if you have any recommendation
+
