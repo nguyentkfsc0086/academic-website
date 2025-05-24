@@ -1,7 +1,9 @@
 ---
 title: Real Analysis
 date: 2023-10-26
-
+tag: 
+    - Math
+    - UML
 ---
 Real analysis is an area of analysis that studies concepts such as sequences and their limits, continuity, differentiation, integration and sequences of functions. By definition, real analysis focuses on the real numbers, often including positive and negative infinity to form the extended real line.
 
