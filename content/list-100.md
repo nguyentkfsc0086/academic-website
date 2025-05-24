@@ -5,14 +5,20 @@ sections:
   - block: markdown
     id: publication
     content:
-      title: My bucket list
+      title: My bucket list, inspired by Huyen Chip
       subtitle: 
       text: |
 
-        - [ ] Get a PhD in Computational Biology, Bioinformatics,....
-        - [ ] Play a piano concerto with a symphony
-        - [ ] Mentor (at least) a person to apply to grad shcool
-        - [ ] Retire my parents
+        - [x] 1. Be kind and grateful
+        - [ ] 2. Play a piano concerto with a symphony
+        - [ ] 3. Mentor (at least) a person to apply to grad shcool
+        - [ ] 4. Retire my parents
+        - [ ] 5. Have a happy life
+        - [ ] 6. Go to Disneyland with Hoang Yen
+        - [ ] 7. Get a PhD in Computational Biology, Bioinformatics,....
+        - [ ] 8. Teach a college level class
+        - [ ] 9. Conduct a research
+        - [ ] 10. 
     design:
       columns: 1
 ---
