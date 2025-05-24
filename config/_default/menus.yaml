@@ -10,9 +10,6 @@ main:
   - name: Publication
     url: publication/
     weight: 11
-  - name: Blogs
-    url: blogs/
-    weight: 13
   - name: Experience
     url: experience/
     weight: 20
@@ -22,5 +19,8 @@ main:
   - name: Notes
     url: notes/
     weight: 40
+  - name: Blogs
+    url: blogs/
+    weight: 13
   - name: List 100
     url: list-100/
