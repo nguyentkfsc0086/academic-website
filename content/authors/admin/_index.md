@@ -121,4 +121,4 @@ skills:
 
 ## About Me
 
-I'm an incoming junior at the University of Massachusetts Lowell major in Computer Science and Mathematics. I love to apply my knowledge in Computer Science into the Biology, Healthcare field. I'm currently working on an independence project under the advising of Professor Rachel Melamed in Biology Department of the Kennedy College of Sciences, UMass Lowell.
+I’m an incoming junior at the University of Massachusetts Lowell, majoring in Computer Science and Mathematics. I’m passionate about applying computer science to the fields of biology and healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in the Biology Department at the Kennedy College of Sciences.

@@ -5,9 +5,9 @@ sections:
   - block: markdown
     id: experience
     content:
-      title: My academic works
+      title: My experience
       subtitle: 
-      text: Everything still in progress, staytune for the next update!
+      text: Want your company's name here? Hire my so I can add it into this section.
     design:
       columns: '1'
 ---

@@ -2,7 +2,7 @@
 title: Publication
 type: Publications
 sections:
-  - block: markdown
+  - block: publications
     id: publication
     content:
       title: My academic works
