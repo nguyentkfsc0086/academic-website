@@ -29,8 +29,8 @@ We can create our form of data object (data structure) if needed for the job. Bu
    &emsp;&emsp; - Factor \
    &emsp;&emsp; - Matrix \
    &emsp;&emsp; - Array \
-    &emsp;&emsp;- List \
-    &emsp;&emsp;- Data frame\
+   &emsp;&emsp; - List \
+   &emsp;&emsp; - Data frame\
 The different types of data object handle different types of data (characters, numerics,...)
 Data objects generally have **3 properties**: \
    &emsp;&emsp; - Type: One of the data forms that we mentioned above \
@@ -44,9 +44,12 @@ A scalar is an object with 1 value. To assign a value to a variable, we can use 
 
 Example:
 ```R
-#Create a scalar data with the name x and the value 4
+# Create a scalar data with the name x and the value 4
 x <- 4
-#Create a scalar data with the name y and the value 5
+# Create a scalar data with the name y and the value 5
 y <- 5
+# Get the sum of 2 data
+x + y
 ```
+
 
