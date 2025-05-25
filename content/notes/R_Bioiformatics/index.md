@@ -55,6 +55,55 @@ Example:
 > x*y+2 
 [1] 12
 ```
-Data can be in logical mode or character mode
-
+Data can be in logical mode or character mode. Logical Data can be enter simply as T (true) or F (false). \
+Example:
+```R
+> correctLogic<-T
+> correctLogic
+[1] TRUE
+> incorrectLogic<-"T" 
+> incorrectLogic
+[1] "T"
+```
+Character data should be enclose with quotation (single or double) \
+Example:
+```R
+> single<-'singleQuote' 
+> double<-"doubleQuote" 
+> single
+[1] "singleQuote"
+> double
+[1] "doubleQuote"
+#You will get an error if you enter character data with no quotes at all > tryThis<-HAHA
+Error: Object "HAHA" not found
+```
+The function mode(variable) will return the type of variable that you want to return.
+```R
+> mode(x)
+[1] "numeric"
+> mode(correctLogic) [1] "logical"
+> mode(incorrectLogic) [1] "character"
+```
+**Vector**
+R can also work with large dataset. Vector are the data object probably use the most in R.\
+Vector can be define as a set of scalar values in 1 dementional array. The data in a vector need to be the same mode, but a vector can hold any mode of data. \\
+There is 2 ways to enter the values into a vector. \
+The first one this by using the c() function. \
+Example
+```R
+> newVector<-c(2,5,5,3,3,6,2,3,5,6,3)
+> newVector [1] 2 5 5 3 3 6 2 3 5 6 3
+```
+Another way is by using the scan() function. \
+Example:
+```R
+> scannedVector<-scan() 1:2
+2:3
+3:1
+4:3 
+5: 53
+# To stop the scan simply leave an entry blank and press enter.
+6:
+Read 5 items
+```
 
