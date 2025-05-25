@@ -41,15 +41,20 @@ Sometimes we don't need to define the name of the object but we should always pr
 **Scalar**
 This is the simplest type of an object. \
 A scalar is an object with 1 value. To assign a value to a variable, we can use the assignment operator '<-'. The '=' sign will be use for a different task \
-
 Example:
 ```R
-# Create a scalar data with the name x and the value 4
-x <- 4
-# Create a scalar data with the name y and the value 5
-y <- 5
-# Get the sum of 2 data
-x + y
+> #create scalar data object x with value 5
+> x<-5
+> #create scalar data object y with value 2 
+> y<-2
+> #some manipulations on scalar objects x and y > z<-x+y
+>z
+[1] 7
+> x-y 
+[1] 3 
+> x*y+2 
+[1] 12
 ```
+Data can be in logical mode or character mode
 
 
