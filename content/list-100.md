@@ -13,7 +13,7 @@ sections:
         - [ ] 2. Play a piano concerto with a symphony
         - [ ] 3. Mentor (at least) a person to apply to grad shcool
         - [ ] 4. Retire my parents
-        - [ ] 5. Have a happy life
+        - [x] 5. Have a happy life
         - [ ] 6. Go to Disneyland with Hoang Yen
         - [ ] 7. Get a PhD in Computational Biology, Bioinformatics,....
         - [ ] 8. Teach a college level class
