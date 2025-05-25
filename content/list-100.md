@@ -20,7 +20,7 @@ sections:
         - [ ] 9. Conduct a research
         - [ ] 10. Go to a performance of Dang Thai Son before he retire :(
         - [ ] 11. Cook Bun Bo by myself
-        Please let me know if you have any recommendation
+        - Please let me know if you have any recommendation
     design:
       columns: 2
 ---
