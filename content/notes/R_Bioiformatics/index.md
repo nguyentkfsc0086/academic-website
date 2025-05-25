@@ -14,8 +14,8 @@ R is based on another languague name S.
 R can be an implementation of S or an indepedence language or a software package
 S and R are designed for statistical programming and it is considered high-level object-oriented statistical programming language. And this is not the same as Object Oriented Programming Language (OPP) likes C++ or Java. We will not discuss about OPP in this course, if you are interested check this [link]('https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP#:~:text=Object%2Doriented%20programming%20(OOP)%20is%20a%20computer%20programming%20model,has%20unique%20attributes%20and%20behavior.')
 
-Everything about R is about create and operate objects. There is 2 types of object, ***function objects*** and ***data objects***
-Data object: An object that hold the data that we assigned
+Everything about R is about create and operate objects. There is 2 types of object, ***function objects*** and ***data objects*** \
+Data object: An object that hold the data that we assigned \
 Function object: An object that perform tasks on data object, it can be import from a package or written from scratch. Some popular tasks that function object do is calculation, graphical presentation,....
 ### Structuring Data with Object
 
