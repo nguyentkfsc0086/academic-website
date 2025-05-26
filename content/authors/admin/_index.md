@@ -36,11 +36,11 @@ profiles:
  # - icon: brands/x
    # url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/nguyn04
+    url: https://www.instagram.com/neeyugnioohknaart/
   - icon: brands/github
     url: https://github.com/nguyentkfsc0086
   - icon: brands/linkedin
-    url: https://www.linkedin.com/nguyentran04
+    url: https://www.linkedin.com/in/nguyentran04/
   #- icon: academicons/google-scholar
    # url: https://scholar.google.com/
  # - icon: academicons/orcid
