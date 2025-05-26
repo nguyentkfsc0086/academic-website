@@ -1,6 +1,6 @@
 ---
 title: Publication
-type: Publications
+type: landing
 sections:
   - block: publications
     id: publication
