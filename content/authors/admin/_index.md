@@ -49,7 +49,6 @@ profiles:
 interests:
   - Computational Biology
   - Bioinformatics
-  - Computer Vision
   - Machine Learning
 
 education:
