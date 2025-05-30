@@ -21,9 +21,9 @@ Need to ask myself
 1. what do they want to motivate?
 2. how did they approach it? why they pick this way?
 4. what is the results? How the author explain it?
-5. what should be done next?
+5. what should be done next?\
 **4: Analyse the figure and table**\
-Try to understand the figures and tables. Like what is it presenting? What is the meaning of the x or y axis? What is the data meaning?
+Try to understand the figures and tables. Like what is it presenting? What is the meaning of the x or y axis? What is the data meaning?\
 **5: Understand of the formatting**\
 ![Table 2](content/notes/Rachel'sLab/table2.png "table2")
 **6: Be critical**\
@@ -32,10 +32,10 @@ It is a tough skill to learn as well.
 **7: Be kind**\
 Don't let the minor error your evaluation and interpretation of the work. 
 Some people take years to publish a paper and hearing a rude, brusque, or mean-spirited
-critique can be heartbreaking, especially for young scientists or those seeking to establish their place within a field and who may worry that they do not belong
+critique can be heartbreaking, especially for young scientists or those seeking to establish their place within a field and who may worry that they do not belong \
 **8: Go more than that**\
-Read the citation articles. Read without any pressure for the first time and try to completely understand the paper for the couple next time.
+Read the citation articles. Read without any pressure for the first time and try to completely understand the paper for the couple next time. \
 **9: Discuss about the paper**\
-Talk about it with your peers, mentors,... it will solidfy your understanding
+Talk about it with your peers, mentors,... it will solidfy your understanding \
 **10: Build on it**\
 Try to do your work to improve it
