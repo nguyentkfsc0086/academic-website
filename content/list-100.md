@@ -15,7 +15,7 @@ sections:
         - [ ] 4. Retire my parents
         - [x] 5. Have a happy life
         - [ ] 6. Go to Disneyland with Hoang Yen
-        - [ ] 7. Get a PhD in Computational Biology, Bioinformatics,....
+        - [ ] 7. Get a PhD in Computational Biology, Bioinformatics or Applied Math
         - [ ] 8. Teach a college level class
         - [ ] 9. Conduct a research
         - [ ] 10. Go to a performance of Dang Thai Son before he retire :(

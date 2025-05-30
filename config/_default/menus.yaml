@@ -6,13 +6,19 @@
 main:
   - name: Publication
     url: publication/
+    weight: 1
   - name: Experience
     url: experience/
+    weight: 2
   - name: Projects
     url: projects/
+    weight: 3
   - name: Notes
     url: notes/
+    weight: 4
   - name: Blogs
     url: blogs/
+    weight: 5
   - name: List 100
     url: list-100/
+    weight: 6
