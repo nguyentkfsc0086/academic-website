@@ -14,8 +14,8 @@ There is 10 rules for reading a scientific paper:\
 Why should I read this paper, there is a table that list the things we should priority depence on the reason that we read the paper. 
 ![Table 1](table1.png "table")
 **2: Understand the author's goal**\
-Try to identify the author, who are they? What are they interested? Is the topic of the paper related with their interested?
-Ask more question, what kind of aricle is this? What is the journal?
+Try to identify the author, who are they? What are they interested? Is the topic of the paper related with their interested?\
+Ask more question, what kind of aricle is this? What is the journal?\
 **3: Ask questions**\
 Need to ask myself
 1. what do they want to motivate?
