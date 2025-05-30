@@ -1,10 +1,9 @@
 ---
 title: AIO 2025
-date: 2023-10-26
+date: 2025-05-28
 tags: 
     - Computer Science
     - Data Science
     - Vietnamese
 ---
-- Thành thạo cú pháp Python, cấu trúc dữ liệu (Data Structures), và lập trình hướng đối tượng (OOP).
-- Ứng dụng Python vào các bài toán thực tế trong AI/ML.
+- Đây là một trong những ghi chú hiếm hoi mà mình viết bằng tiếng Việt. Đây là ghi chú cá nhân của mình trong quá trình tham gia khoá học AIO2025 của AI Việt Nam.
