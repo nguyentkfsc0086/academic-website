@@ -7,7 +7,7 @@ sections:
     content:
       title: My experience
       subtitle: 
-      text: Want your company's name here? Hire my so I can add it into this section.
+      text: Want your company's name here? Hire me so I can add it into this section.
     design:
       columns: '1'
 ---
