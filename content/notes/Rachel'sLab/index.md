@@ -4,6 +4,9 @@ date: 2025-05-28
 tags: 
     - Computer Science
     - Bioinformatics
+filters:
+    folders:
+    - notes
 ---
 Hello, this is my personal note in the time I am working at Computational Disease Biology Lab under the supervision of Professor Rachel Melamed.
 ### The importance of stupidity in scientific research
