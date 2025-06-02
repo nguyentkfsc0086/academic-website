@@ -25,6 +25,7 @@ Need to ask myself
 2. how did they approach it? why they pick this way?
 4. what is the results? How the author explain it?
 5. what should be done next?\
+
 **4: Analyse the figure and table**\
 Try to understand the figures and tables. Like what is it presenting? What is the meaning of the x or y axis? What is the data meaning?\
 **5: Understand of the formatting**\

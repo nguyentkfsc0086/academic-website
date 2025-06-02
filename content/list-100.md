@@ -22,6 +22,7 @@ sections:
         - [ ] 11. Cook Bun Bo by myself
         - [ ] 12. See cherry blossom in DC
         - [ ] 13. Built a scholarship foundation for Vietnamese students
+        - [ ] 14. Run a marathon
         - Please let me know if you have any recommendations
     design:
       columns: 2
