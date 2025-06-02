@@ -1,14 +1,24 @@
 ---
-title: Publication
+title: 'Publications'
+date: 2024-05-19
 type: landing
+
+design:
+  # Section spacing
+  spacing: '5rem'
+
+# Page sections
 sections:
-  - block: publications
-    id: publication
+  - block: collection
     content:
       title: My academic works
-      subtitle: 
-      text: Everything still in progress, staytune for the next update!
+      filters:
+        folders:
+          - publicaton
     design:
-      columns: '1'
+      view: article-grid
+      fill_image: true
+      columns: 3
+      pagination: true
+
 ---
-Everything still in progress, staytune for the next update!
