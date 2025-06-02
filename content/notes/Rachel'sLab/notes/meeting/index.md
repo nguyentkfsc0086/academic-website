@@ -1,5 +1,5 @@
 ---
-title: Biology Dictionary
+title: Weekly Meeting
 date: 2025-05-30
 tags: 
     - Biology
