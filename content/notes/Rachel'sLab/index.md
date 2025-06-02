@@ -20,7 +20,7 @@ sections:
       text: This is my collection of notes when I working in Computational Disease Biology Lab under the suppervision of professor Rachel Melamed
     filters:
         folders:
-          - notes
+          - content/notes/Rachel'sLab/note
     design:
       view: article-grid
       fill_image: true
