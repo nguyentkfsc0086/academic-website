@@ -18,7 +18,7 @@ sections:
     content:
       title: My personal notes
       text: This is my collection of notes when I working in Computational Disease Biology Lab under the suppervision of professor Rachel Melamed
-      filters:
+    filters:
         folders:
           - notes
     design:
