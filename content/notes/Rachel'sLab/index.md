@@ -2,6 +2,11 @@
 title: My notes in Computational Disease Biology Lab
 date: 2024-05-28
 type: landing
+tags:
+    - Computer Science
+    - Bioinformatics
+    - Computational Biology
+    - Machine Learning
 
 design:
   # Section spacing
@@ -15,7 +20,7 @@ sections:
       text: This is my collection of notes when I working in Computational Disease Biology Lab under the suppervision of professor Rachel Melamed
       filters:
         folders:
-          - Lab_Note
+          - notes
     design:
       view: article-grid
       fill_image: true
