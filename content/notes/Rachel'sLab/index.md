@@ -1,30 +1,27 @@
 ---
-title: My notes in Computational Disease Biology Lab
+title: My Notes in the Computational Disease Biology Lab
 date: 2024-05-28
 type: landing
 tags:
-    - Computer Science
-    - Bioinformatics
-    - Computational Biology
-    - Machine Learning
+  - Computer Science
+  - Bioinformatics
+  - Computational Biology
+  - Machine Learning
 
 design:
-  # Section spacing
-  spacing: '5rem'
+  spacing: '5rem'  # Section spacing
 
-# Page sections
 sections:
   - block: collection
     content:
-      title: My personal notes
-      text: This is my collection of notes when I working in Computational Disease Biology Lab under the suppervision of professor Rachel Melamed
+      title: My Personal Notes
+      text: This is my collection of notes from working in the Computational Disease Biology Lab under the supervision of Professor Rachel Melamed.
     filters:
-        folders:
-          - content/notes/Rachel'sLab/note
+      folders:
+        - content/notes/Rachel'sLab/note
     design:
       view: article-grid
       fill_image: true
       columns: 3
       pagination: true
-
 ---
