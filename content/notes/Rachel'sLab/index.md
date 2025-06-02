@@ -1,5 +1,5 @@
 ---
-title: 'Notes'
+title: My notes in Computational Disease Biology Lab
 date: 2024-05-28
 type: landing
 
@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: My personal notes
-      text: This is my collection of notes in Rachel's Lab
+      text: This is my collection of notes when I working in Computational Disease Biology Lab under the suppervision of professor Rachel Melamed
       filters:
         folders:
           - Lab_Note
