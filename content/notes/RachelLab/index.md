@@ -19,9 +19,5 @@ sections:
     filters:
       folders:
         - content/notes/RachelLab/note
-    design:
-      view: article-grid
-      fill_image: true
-      columns: 3
-      pagination: true
 ---
+hello
