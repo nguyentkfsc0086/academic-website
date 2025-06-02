@@ -18,6 +18,6 @@ sections:
       text: This is my collection of notes from working in the Computational Disease Biology Lab under the supervision of Professor Rachel Melamed.
     filters:
       folders:
-        - RachelLab
+        - /Users/nguyentran/Library/CloudStorage/OneDrive-Personal/academic-website/content/notes/RachelLab
 ---
 hello
