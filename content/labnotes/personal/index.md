@@ -42,4 +42,4 @@ Talk about it with your peers, mentors,... it will solidfy your understanding \
 **10: Build on it**\
 Try to do your work to improve it
 ### My note in the PrediXcan paper
-{{% staticref "/Users/nguyentran/Library/CloudStorage/OneDrive-Personal/academic-website/content/labnotes/personal/Paper_note.pdf"  %}}My note{{% /staticref %}}
+ <iframe width="100%" height="800" src="content/labnotes/personal/Paper_note.pdf">
