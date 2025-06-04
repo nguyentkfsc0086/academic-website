@@ -53,7 +53,7 @@ interests:
 
 education:
 
-  - area: BS Computer Science
+  - area: BS Computer Science and Mathematics
     institution: University of Massachusetts at Lowell
     date_start: 2025-01-01
     date_end: 2020-12-31
