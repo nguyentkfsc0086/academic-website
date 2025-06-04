@@ -2,7 +2,11 @@
 title: 'Personal Note in Computational Disease Biology Lab'
 date: 2025-05-29
 type: landing
-
+tags:
+  - Bioinformatics
+  - Computational Biology
+  - Machine Learning
+  - Research
 design:
   # Section spacing
   spacing: '5rem'
