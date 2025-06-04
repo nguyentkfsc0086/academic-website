@@ -4,6 +4,7 @@ date: 2025-05-28
 tags: 
     - Computer Science
     - Bioinformatics
+    - Computational Biology
 ---
 Hello, this is my personal note in the time I am working at Computational Disease Biology Lab under the supervision of Professor Rachel Melamed.
 ### The importance of stupidity in scientific research
@@ -21,7 +22,7 @@ Need to ask myself
 1. what do they want to motivate?
 2. how did they approach it? why they pick this way?
 4. what is the results? How the author explain it?
-5. what should be done next?\
+5. what should be done next?
 
 **4: Analyse the figure and table**\
 Try to understand the figures and tables. Like what is it presenting? What is the meaning of the x or y axis? What is the data meaning?\
@@ -29,7 +30,7 @@ Try to understand the figures and tables. Like what is it presenting? What is th
 ![Table 2](table2.png "table2")
 **6: Be critical**\
 Consider the content of the paper you read? It might be not 100% true.
-It is a tough skill to learn as well.
+It is a tough skill to learn as well.\
 **7: Be kind**\
 Don't let the minor error your evaluation and interpretation of the work. 
 Some people take years to publish a paper and hearing a rude, brusque, or mean-spirited
@@ -41,4 +42,4 @@ Talk about it with your peers, mentors,... it will solidfy your understanding \
 **10: Build on it**\
 Try to do your work to improve it
 ### My note in the PrediXcan paper
-![Table 2](Paper_note.pdf "table2")
+{{% staticref "/Users/nguyentran/Library/CloudStorage/OneDrive-Personal/academic-website/content/labnotes/personal/Paper_note.pdf"  %}}My note{{% /staticref %}}
