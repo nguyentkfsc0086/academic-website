@@ -5,7 +5,7 @@ tags:
     - Biology
 ---
 This is a place that I am save the foundation knownledge of Biology.
-<iframe src="Bio_foundation.pdf" width="100%" height="600px" style="border: none;">
+<iframe src="content/labnotes/Bio_Dictionary/Bio_foundation.pdf" width="100%" height="600px" style="border: none;">
   This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="Bio_foundation.pdf">Download PDF</a>.
+  <a href="content/labnotes/Bio_Dictionary/Bio_foundation.pdf">Download PDF</a>.
 </iframe>
