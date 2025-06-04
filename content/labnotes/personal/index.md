@@ -1,5 +1,5 @@
 ---
-title: Personal Note in Computational Disease Biology Lab
+title: Personal + Paper Note 
 date: 2025-05-28
 tags: 
     - Computer Science
@@ -40,3 +40,8 @@ Read the citation articles. Read without any pressure for the first time and try
 Talk about it with your peers, mentors,... it will solidfy your understanding \
 **10: Build on it**\
 Try to do your work to improve it
+### My note in the PrediXcan paper
+<iframe src="Paper_note.pdf" width="100%" height="600px" style="border: none;">
+  This browser does not support PDFs. Please download the PDF to view it: 
+  <a href="Paper_note">Download PDF</a>.
+</iframe>
