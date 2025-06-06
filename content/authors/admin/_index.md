@@ -50,6 +50,7 @@ interests:
   - Computational Biology
   - Bioinformatics
   - Machine Learning
+  - Applied Computational
 work:
   - position: Undergrad Researcher at Computational Diesese Biology Lab
     company_name: University of Massachusetts at Lowell
