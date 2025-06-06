@@ -50,7 +50,11 @@ interests:
   - Computational Biology
   - Bioinformatics
   - Machine Learning
-
+experience:
+  - organization: Computational Disease Biology Lab
+    date_start: 2025-01-01
+    summary: |
+      Member of Rachel's Lab
 education:
 
   - area: BS Computer Science and Mathematics
@@ -66,7 +70,6 @@ education:
     date_start: 2023-01-23
     date_end: 2025-05-16
     summary: |
-      GPA: 3.2/4.0
       
       Courses included:
       - Calculus 1, 2, 3
@@ -79,36 +82,7 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-      - name: Scikit-earn
-        description: ''
-        percent: 80
-      - name: Open CV
-      
-      - name: Java
-        description: ''
-        percent: 100
-      - name: SQL
-        description: ''
-        percent: 40
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Piano
-        description: ''
-        percent: 60
-        icon: 
-      - name: Anime
-        description: ''
-        percent: 100
-        icon:
-     
+
  
 
 # Awards.
