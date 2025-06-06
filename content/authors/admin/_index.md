@@ -62,7 +62,6 @@ education:
     date_start: 2025-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: /4.0
 
       
   - area: AS Computer Science
