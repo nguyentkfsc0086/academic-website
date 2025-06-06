@@ -17,7 +17,7 @@ The overall outcome of the project is:
 
 What I need to do next: 
 - Build a model from the variant in chrosomes (X) and 103 brain tissues (Y) - Jingfeng took care of it. Apply it to people that we only have their genome type - to have a prediction in gene expression.
-- Combine the result with additional information as the data for PrediXcan methode to map with the trait association.
+- Combine the result with additional information as the data for PrediXcan method to map with the trait association.
 
 What I need to do in next week:
 - Schedule an appointment with Jeingfeng so he can instruct me how to work download the data as well as get use to the enviroment.
