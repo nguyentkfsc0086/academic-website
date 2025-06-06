@@ -62,10 +62,9 @@ education:
 
   - area: BS Computer Science and Mathematics
     institution: University of Massachusetts at Lowell
-    date_start: 2025-01-01
-    date_end: 2020-12-31
+    date_start: 2025-09-03
+    date_end: 2027-05-31
     summary: |
-
       Courses included:
       - Data Science for Biologist
       - Differential Equations
@@ -77,7 +76,6 @@ education:
     date_start: 2023-01-23
     date_end: 2025-05-16
     summary: |
-      
       Courses included:
       - Calculus 1, 2, 3
       - Linear Algebra
