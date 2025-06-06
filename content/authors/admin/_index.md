@@ -58,6 +58,8 @@ work:
     date_end: ''
     summary: |2-
       - Currently working in an independent research project under the supervision of professor Rachel Melamed
+      - Build a linear model to predict the gene expression from the genotype data
+      - Apply PrediXcan methode to map the predicted gene expression and additional data with the significant traits.
 
 education:
 
