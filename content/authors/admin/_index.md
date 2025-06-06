@@ -50,11 +50,12 @@ interests:
   - Computational Biology
   - Bioinformatics
   - Machine Learning
-experience:
-  - organization: Computational Disease Biology Lab
-    date_start: 2025-01-01
-    summary: |
-      Member of Rachel's Lab
+work:
+  - position: Undergrad Researcher at Computational Diesese Biology Lab
+    company_name: University of Massachusetts at Lowell
+    date_start: 2025-06-02
+    date_end: ''
+    summary: |2-
 education:
 
   - area: BS Computer Science and Mathematics
@@ -63,6 +64,11 @@ education:
     date_end: 2020-12-31
     summary: |
 
+      Courses included:
+      - Data Science for Biologist
+      - Differential Equations
+      - Probablity and Statistics
+      - Login Design
       
   - area: AS Computer Science
     institution: Bunker Hill Community College
@@ -73,7 +79,6 @@ education:
       Courses included:
       - Calculus 1, 2, 3
       - Linear Algebra
-      - Ordinary Differential Equations
       - Data Structure
       - C++ Programming
       - Java Programming
