@@ -7,7 +7,7 @@ main:
   - name: Publication
     url: publication/
     weight: 1
-  - name: Experience
+  - name: Experience and Education
     url: experience/
     weight: 2
   - name: Projects
