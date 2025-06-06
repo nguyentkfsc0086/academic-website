@@ -64,25 +64,13 @@ education:
     institution: University of Massachusetts at Lowell
     date_start: 2025-09-03
     date_end: 2027-05-31
-    summary: |
-      Courses included:
-      - Data Science for Biologist
-      - Differential Equations
-      - Probablity and Statistics
-      - Login Design
+
       
   - area: AS Computer Science
     institution: Bunker Hill Community College
     date_start: 2023-01-23
     date_end: 2025-05-16
-    summary: |
-      Courses included:
-      - Calculus 1, 2, 3
-      - Linear Algebra
-      - Data Structure
-      - C++ Programming
-      - Java Programming
-      - SQL Programming
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 
