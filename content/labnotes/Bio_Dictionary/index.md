@@ -5,4 +5,4 @@ tags:
     - Biology
 ---
 This is a place that I am save the foundation knownledge of Biology.
-<iframe src="/pdf/Bio_foundation.pdf" width="100%" height="600px"></iframe>
+<iframe src="/pdf/Bio_foundation.pdf" width="1000px" height="100%"></iframe>

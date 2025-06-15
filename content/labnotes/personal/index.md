@@ -42,6 +42,6 @@ Talk about it with your peers, mentors,... it will solidfy your understanding \
 **10: Build on it**\
 Try to do your work to improve it
 ### My note in the PrediXcan paper
-<iframe src="/pdf/Paper note.pdf" width="100%" height="600px"></iframe>
+<iframe src="/pdf/Paper note.pdf" width="1000px" height="100%"></iframe>
 
 
