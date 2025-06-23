@@ -69,7 +69,7 @@ education:
     date_end: 2027-05-31
 
       
-  - area: AS Computer Science
+  - area: AS Computer Science and Mathematics
     institution: Bunker Hill Community College
     date_start: 2023-01-23
     date_end: 2025-05-16
