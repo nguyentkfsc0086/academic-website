@@ -56,10 +56,7 @@ work:
     company_name: University of Massachusetts at Lowell
     date_start: 2025-06-02
     date_end: ''
-    summary: |2-
-      - Currently working in an independent research project under the supervision of professor Rachel Melamed
-      - Build a linear model to predict the gene expression from the genotype data
-      - Apply PrediXcan method to identify the dieses based on the predicted gene expression and additional data.
+
 
 education:
 
@@ -68,11 +65,6 @@ education:
     date_start: 2025-09-03
     date_end: 2027-05-31
 
-      
-  - area: AS Computer Science and Mathematics
-    institution: Bunker Hill Community College
-    date_start: 2023-01-23
-    date_end: 2025-05-16
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -89,4 +81,4 @@ education:
 
 ## About Me
 
-I’m studying the University of Massachusetts Lowell, majoring in Computer Science and Mathematics. I’m passionate about applying computer science to the fields of Biology and Healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in the Biology Department at the Kennedy College of Sciences.
+I’m studying the University of Massachusetts Lowell, majoring in Computer Science and Mathematics. I’m passionate about applying computer science to the fields of Biology and Healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in Computational Disese Biology Lab.
