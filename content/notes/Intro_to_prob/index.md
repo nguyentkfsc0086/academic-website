@@ -57,14 +57,20 @@ image here
 - probability is range from 0 - 1
 ### Axioms
 
-1. **Non-negativity**  
+1. **Non-negativity**
+{{< math >}}
    $$P(A) \geq 0$$
+{{< /math >}}
 
 2. **Normalization**   
+{{< math >}}
    $$P(S) = 1$$
-
+{{< /math >}}
 3. **Additivity**  
-	If $$A \cap B = \varnothing$$, then\
-   $$P(A \cup B) = P(A) + P(B)$$
+{{< math >}}
+	If $$A \cap B = \varnothing$$, then \\
+   $$P(A \cup B) = P(A) + P(B)$${{< /math >}}
+{{</ math >}}
+
 
 
