@@ -58,19 +58,19 @@ image here
 ### Axioms
 
 1. **Non-negativity**
-{{<math>}}
-   $$P(A) \geq 0$$
-{{</math>}}
+{{< math >}}
+P(A) \geq 0
+{{< /math >}}
 
-2. **Normalization**   
-{{<math>}}
-   $$P(S) = 1$$
-{{</math>}}
+2. **Normalization**
+{{< math >}}
+P(S) = 1
+{{< /math >}}
+
 3. **Additivity**  
-{{<math>}}
-	If $$A \cap B = \varnothing$$, then \\
-   $$P(A \cup B) = P(A) + P(B)$${{< /math >}}
-{{</math>}}
-
+If \( A \cap B = \varnothing \), then  
+{{< math >}}
+P(A \cup B) = P(A) + P(B)
+{{< /math >}}
 
 
