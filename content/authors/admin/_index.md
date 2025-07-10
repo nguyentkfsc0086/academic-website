@@ -60,10 +60,16 @@ work:
 
 education:
 
-  - area: BS Computer Science and Mathematics
+  - area: BS in Computer Science and Mathematics
     institution: University of Massachusetts at Lowell
     date_start: 2025-09-03
     date_end: 2027-05-31
+  
+  - area: AS in Computer Science
+    institution: Bunker Hill Community College
+    date_start: 2023-01-23
+    date_end: 2025-05-31
+
 
 
 # Skills
