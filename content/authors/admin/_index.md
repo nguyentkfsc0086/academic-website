@@ -68,7 +68,7 @@ education:
   - area: AS in Computer Science
     institution: Bunker Hill Community College
     date_start: 2023-01-23
-    date_end: 2025-05-31
+    date_end: 2025-05-30
 
 
 
