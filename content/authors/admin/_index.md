@@ -53,13 +53,21 @@ interests:
   - Computational Mathematics
 work:
   - position: STEM tutor
-    company_name: Self employed
+    company_name: Volunteering
     date_start: 2025-07-02
     date_end: ''
+    summary: |2-
+      Responsibilities include:
+        - Tutoring mathematics and physics for Vietnamese students
+  - position: Backend Software Engineer
   - position: Undergrad Researcher at Computational Diesese Biology Lab
     company_name: University of Massachusetts at Lowell
     date_start: 2025-06-02
     date_end: ''
+    summary: |2-
+      Responsibilities include:
+       - Building a prediction model to predict GREx data from the given GWAS data
+       - Test the predicted GREx data to predict the trait of gene expression
 
 
 education:
@@ -68,12 +76,32 @@ education:
     institution: University of Massachusetts at Lowell
     date_start: 2025-09-03
     date_end: 2027-05-31
-  
+    summary: |
+      GPA: 4.0/4.0
+      Courses included:
+        - Mathematics:
+          - Discrete Structure 1
+          - Partial Differential Equations
+          - Linear Algebra 2
+        - Computer Science:
+          - Data Science for Biologist
   - area: AS in Computer Science
     institution: Bunker Hill Community College
     date_start: 2023-01-23
     date_end: 2025-05-30
-
+    summary: |
+      GPA: 3.3/4.0    
+      Courses included:
+        - Mathematics:
+          - Calculus 1, 2, 3
+          - Linear Algebra
+          - Ordinary Differential Equations
+        - Computer Science:
+          - C++ Programming
+          - Java Programming
+          - SQl Programming
+          - Data Structure and Algorithms
+          - Advance Java Programming
 
 
 # Skills
