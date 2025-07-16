@@ -53,7 +53,7 @@ interests:
   - Computational Mathematics
 work:
   - position: STEM tutor
-    company_name: Volunteering
+    company_name:
     date_start: 2025-07-02
     date_end: ''
     summary: |2-
