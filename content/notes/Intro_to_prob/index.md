@@ -59,17 +59,18 @@ image here
 
 1. **Non-negativity**
 
-P(A) \geq 0
 {{< math >}}
+e^{i\pi} + 1 = 0
+{{< /math >}}
 
 2. **Normalization**
-P(S) = 1
 {{< math >}}
+e^{i\pi} + 1 = 0
+{{< /math >}}
 
 3. **Additivity**  
-If \( A \cap B = \varnothing \), then  
 {{< math >}}
-P(A \cup B) = P(A) + P(B)
-{{< math >}}
+e^{i\pi} + 1 = 0
+{{< /math >}}
 
 
