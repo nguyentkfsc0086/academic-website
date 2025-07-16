@@ -78,6 +78,7 @@ education:
     date_end: 2027-05-31
     summary: |
       GPA: 4.0/4.0
+      
       Courses included:
         - Mathematics:
           - Discrete Structure 1
