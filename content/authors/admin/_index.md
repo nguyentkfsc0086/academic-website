@@ -59,7 +59,6 @@ work:
     summary: |2-
       Responsibilities include:
         - Tutoring mathematics and physics for Vietnamese students
-  - position: Backend Software Engineer
   - position: Undergrad Researcher at Computational Diesese Biology Lab
     company_name: University of Massachusetts at Lowell
     date_start: 2025-06-02
@@ -77,8 +76,7 @@ education:
     date_start: 2025-09-03
     date_end: 2027-05-31
     summary: |
-      GPA: 4.0/4.0
-      
+      GPA: 4.0/4.0    
       Courses included:
         - Mathematics:
           - Discrete Structure 1
