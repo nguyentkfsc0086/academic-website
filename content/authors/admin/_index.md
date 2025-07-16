@@ -52,6 +52,10 @@ interests:
   - Machine Learning
   - Computational Mathematics
 work:
+  - position: STEM tutor
+    company_name: Self employed
+    date_start: 2025-07-02
+    date_end: ''
   - position: Undergrad Researcher at Computational Diesese Biology Lab
     company_name: University of Massachusetts at Lowell
     date_start: 2025-06-02
