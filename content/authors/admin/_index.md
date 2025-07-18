@@ -58,14 +58,14 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-        - Tutoring mathematics and physics for Vietnamese students
+        - Tutoring mathematics and physics for Vietnamese high school students
   - position: Undergrad Researcher at Computational Diesese Biology Lab
     company_name: University of Massachusetts at Lowell
     date_start: 2025-06-02
     date_end: ''
     summary: |2-
       Responsibilities include:
-       - Building a prediction model to predict GREx data from the given GWAS data
+       - Building a prediction model to predict GREx tissue data from the given GTEx data (270 GB)
        - Test the predicted GREx data to predict the trait of gene expression
 
 
