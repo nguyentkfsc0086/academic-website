@@ -16,6 +16,20 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+
+[languages.en]
+languageName = "English"
+weight = 1
+contentDir = "content/en"
+
+[languages.vi]
+languageName = "Tiếng Việt"
+weight = 2
+contentDir = "content/vi"
 
 ############################
 ## ADVANCED
