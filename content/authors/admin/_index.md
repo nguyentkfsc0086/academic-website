@@ -65,8 +65,7 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-       - Building a prediction model to predict GREx tissue data from the given GTEx data (270 GB)
-       - Test the predicted GREx data to predict the trait of gene expression
+       - Gene expression modeling
 
 
 education:
