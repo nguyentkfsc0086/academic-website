@@ -6,19 +6,19 @@ tags:
     - Bioinformatics
     - Computational Biology
 ---
-# Ghi chú cá nhân – Computational Disease Biology Lab
+### Ghi chú cá nhân – Computational Disease Biology Lab
 
 Xin chào, đây là ghi chú cá nhân của mình trong thời gian làm việc tại **Phòng thí nghiệm Sinh học Bệnh học Tính toán (Computational Disease Biology Lab)** dưới sự hướng dẫn của **Giáo sư Rachel Melamed**.
 
 ---
 
-## 🧠 Tầm quan trọng của cảm giác “ngu ngốc” trong nghiên cứu khoa học
+### 🧠 Tầm quan trọng của cảm giác “ngu ngốc” trong nghiên cứu khoa học
 
 Cảm thấy bản thân “ngốc nghếch” là điều hoàn toàn bình thường. Khi bạn cảm thấy mình kém ở một lĩnh vực nào đó, điều đó cũng có nghĩa là bạn đã dồn **100% nỗ lực** để làm điều đó rồi.
 
 ---
 
-## 📖 10 quy tắc đơn giản để đọc một bài báo khoa học
+### 📖 10 quy tắc đơn giản để đọc một bài báo khoa học
 
 **1. Xác định mục tiêu của bạn**  
 Tại sao mình lại đọc bài báo này? Có một bảng liệt kê những ưu tiên cần tập trung tuỳ thuộc vào mục đích đọc bài.  
@@ -62,7 +62,10 @@ Hãy thử làm gì đó dựa trên bài báo — cải tiến hoặc mở rộ
 
 ---
 
-## 📝 Ghi chú khi đọc bài báo về **PrediXcan**
-<iframe src="/pdf/Paper note.pdf" width="1000px" height="1200px" frameborder="10" scrolling="yes"></iframe>
+### 📝 Ghi chú khi đọc bài báo về **PrediXcan**
+<div style="display: flex; justify-content: center;">
+  <iframe src="/pdf/Paper note.pdf" style="width: 100%; max-width: 1000px; height: 1200px;" frameborder="0" scrolling="yes"></iframe>
+</div>
+
 
 
