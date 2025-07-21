@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: vi/uploads/Academic_Resume.pdf
+        url: /Users/nguyentran/Library/CloudStorage/OneDrive-Personal/academic-website/static/uploads/Academic_Resume.pdf
     design:
       css_class: /Users/nguyentran/Library/CloudStorage/OneDrive-Personal/academic-website/assets/themes/blue.css
       background:
