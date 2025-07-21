@@ -6,5 +6,9 @@ tags:
     - life
     - personal
 ---
-Originally, I planed to build this website as a portfolio page to showcase my projects in classes. But I relize journalling my life is a good way, this is the unique time that I ever had in my life. So this is like a document of my self that save all of my memories so I can look it up when I get older. The content in the blogs is including everything that happening in my lifes. I will try to post at least 1 blog per week. Stay tune!!!!!!!!
+Ban đầu, tôi dự định xây dựng trang web này như một portfolio để giới thiệu các dự án tôi đã thực hiện trong các môn học. Nhưng rồi tôi nhận ra rằng việc viết nhật ký cuộc sống là một cách rất ý nghĩa — đây là khoảng thời gian đặc biệt và duy nhất trong cuộc đời tôi. Vì vậy, trang web này giống như một bản ghi chép cá nhân, lưu lại tất cả những ký ức của tôi để sau này khi già đi tôi có thể nhìn lại.
+
+Nội dung trong các bài blog sẽ bao gồm mọi điều đang xảy ra trong cuộc sống của tôi. Tôi sẽ cố gắng đăng ít nhất 1 bài blog mỗi tuần.
+
+Hãy đón xem nhé!!!!!!!!
 

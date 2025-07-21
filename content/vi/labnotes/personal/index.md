@@ -6,42 +6,63 @@ tags:
     - Bioinformatics
     - Computational Biology
 ---
-Hello, this is my personal note in the time I am working at Computational Disease Biology Lab under the supervision of Professor Rachel Melamed.
-### The importance of stupidity in scientific research
-It's okay to feel dumb. When you have a feeling that you are stupid in a particular thing, it mean you did it with 100% of your effort.
-### Ten simple rules for reading a scientific paper
-There is 10 rules for reading a scientific paper:\
-**1: Pick your goal**\
-Why should I read this paper, there is a table that list the things we should priority depence on the reason that we read the paper. 
-![Table 1](table1.png "table")
-**2: Understand the author's goal**\
-Try to identify the author, who are they? What are they interested? Is the topic of the paper related with their interested?\
-Ask more question, what kind of aricle is this? What is the journal?\
-**3: Ask questions**\
-Need to ask myself
-1. what do they want to motivate?
-2. how did they approach it? why they pick this way?
-4. what is the results? How the author explain it?
-5. what should be done next?
+# Ghi chú cá nhân – Computational Disease Biology Lab
 
-**4: Analyse the figure and table**\
-Try to understand the figures and tables. Like what is it presenting? What is the meaning of the x or y axis? What is the data meaning?\
-**5: Understand of the formatting**\
-![Table 2](table2.png "table2")
-**6: Be critical**\
-Consider the content of the paper you read? It might be not 100% true.
-It is a tough skill to learn as well.\
-**7: Be kind**\
-Don't let the minor error your evaluation and interpretation of the work. 
-Some people take years to publish a paper and hearing a rude, brusque, or mean-spirited
-critique can be heartbreaking, especially for young scientists or those seeking to establish their place within a field and who may worry that they do not belong \
-**8: Go more than that**\
-Read the citation articles. Read without any pressure for the first time and try to completely understand the paper for the couple next time. \
-**9: Discuss about the paper**\
-Talk about it with your peers, mentors,... it will solidfy your understanding \
-**10: Build on it**\
-Try to do your work to improve it
-### My note in the PrediXcan paper
+Xin chào, đây là ghi chú cá nhân của mình trong thời gian làm việc tại **Phòng thí nghiệm Sinh học Bệnh học Tính toán (Computational Disease Biology Lab)** dưới sự hướng dẫn của **Giáo sư Rachel Melamed**.
+
+---
+
+## 🧠 Tầm quan trọng của cảm giác “ngu ngốc” trong nghiên cứu khoa học
+
+Cảm thấy bản thân “ngốc nghếch” là điều hoàn toàn bình thường. Khi bạn cảm thấy mình kém ở một lĩnh vực nào đó, điều đó cũng có nghĩa là bạn đã dồn **100% nỗ lực** để làm điều đó rồi.
+
+---
+
+## 📖 10 quy tắc đơn giản để đọc một bài báo khoa học
+
+**1. Xác định mục tiêu của bạn**  
+Tại sao mình lại đọc bài báo này? Có một bảng liệt kê những ưu tiên cần tập trung tuỳ thuộc vào mục đích đọc bài.  
+![Bảng 1](table1.png "table")
+
+**2. Hiểu mục tiêu của tác giả**  
+Cố gắng xác định: tác giả là ai? Họ quan tâm đến điều gì? Chủ đề bài báo có liên quan đến mối quan tâm của họ không?  
+Đặt thêm nhiều câu hỏi như: đây là loại bài báo gì? Đăng trên tạp chí nào?
+
+**3. Đặt câu hỏi khi đọc**  
+- Họ muốn truyền tải điều gì?  
+- Họ tiếp cận vấn đề như thế nào? Tại sao họ chọn cách đó?  
+- Kết quả là gì? Họ giải thích kết quả như thế nào?  
+- Bước tiếp theo nên làm gì?
+
+**4. Phân tích biểu đồ và bảng**  
+- Chúng thể hiện điều gì?  
+- Trục X và Y đại diện cho gì?  
+- Dữ liệu nói lên điều gì?
+
+**5. Hiểu định dạng trình bày của bài báo**  
+![Bảng 2](table2.png "table2")
+
+**6. Biết nhìn nhận một cách phản biện**  
+Cân nhắc kỹ nội dung bài báo — không phải lúc nào cũng đúng 100%. Đây cũng là một kỹ năng khó để luyện tập.
+
+**7. Biết cảm thông**  
+Đừng để những lỗi nhỏ làm ảnh hưởng đến đánh giá của bạn về toàn bộ công trình.  
+Có người mất nhiều năm để xuất bản một bài báo — một nhận xét thô lỗ hay gay gắt có thể làm họ tổn thương, đặc biệt là những nhà khoa học trẻ.
+
+**8. Đọc vượt ra ngoài bài báo**  
+- Đọc thêm các bài báo được trích dẫn  
+- Lần đầu: đọc thoải mái  
+- Lần sau: đọc kỹ để hiểu sâu
+
+**9. Thảo luận về bài báo**  
+Trao đổi với bạn bè, mentor, đồng nghiệp… sẽ giúp bạn hiểu sâu hơn.
+
+**10. Xây dựng dựa trên nó**  
+Hãy thử làm gì đó dựa trên bài báo — cải tiến hoặc mở rộng thêm từ đó.
+
+---
+
+## 📝 Ghi chú khi đọc bài báo về **PrediXcan**
 <iframe src="/pdf/Paper note.pdf" width="1000px" height="1200px" frameborder="10" scrolling="yes"></iframe>
 
 
