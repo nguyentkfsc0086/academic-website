@@ -65,7 +65,7 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-       - Gene expression modeling
+       - Modeling gene expression
 
 
 education:
