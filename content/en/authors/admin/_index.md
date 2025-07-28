@@ -49,8 +49,8 @@ profiles:
 interests:
   - Computational Biology
   - Bioinformatics
+  - Biostatistics
   - Machine Learning
-  - Computational Mathematics
 work:
   - position: STEM tutor
     company_name:

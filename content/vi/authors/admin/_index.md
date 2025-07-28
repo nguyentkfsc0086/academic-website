@@ -42,9 +42,9 @@ profiles:
 
 interests:
   - Tin sinh
-  - Tính toán sinh học
+  - Sinh học tính toán
+  - Thống kê sinh học
   - Học máy
-  - Khoa học tính toán
 
 work:
   - position: Gia sư
