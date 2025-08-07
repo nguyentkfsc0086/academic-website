@@ -7,7 +7,7 @@ tags:
     - personal
     - relationship
 ---
-> "Everything little things we had been through, need the sun to shine where we want it to" 
+> "Every little things we had been through, need the sun to shine where we want it to" 
 > - July by The Cassette.
 
 
