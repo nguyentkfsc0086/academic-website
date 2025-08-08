@@ -106,4 +106,4 @@ education:
 
 ## Giới thiệu bản thân
 
-Tôi hiện đang theo học tại Đại học Massachusetts Lowell, chuyên ngành Khoa học Máy tính và Toán học. Tôi có niềm đam mê với việc ứng dụng công nghệ thông tin vào các lĩnh vực Sinh học và Y học. Hiện tại, tôi đang thực hiện một dự án nghiên cứu độc lập dưới sự hướng dẫn của Giáo sư Rachel Melamed tại phòng thí nghiệm Sinh học Bệnh học Tính toán (Computational Disease Biology Lab).
+Xin chào! Mình là Nguyên đến từ Cần Thơ. Hiện tại mình đang là sinh viên năm 3 ngành Khoa Học Máy Tính và Toán Ứng Dụng tại trường UMass Lowell. Mình hy vọng có thể ứng dụng những kiến thức của mình về Toán và Khoa Học Máy Tính vào lĩnh vực Sinh Học hoặc là Chăm Sóc Sức Khoẻ. Hiện tại, mình đang làm nghiên cứu với sự hưỡng dẫn của giáo sư Rachel Melamed ở khoa Sinh học thuộc trường UMass Lowell.
