@@ -36,7 +36,7 @@ profiles:
  # - icon: brands/x
    # url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/neeyugnioohknaart/
+    url: https://www.instagram.com/bunbohuevida/
   - icon: brands/github
     url: https://github.com/nguyentkfsc0086
   - icon: brands/linkedin
