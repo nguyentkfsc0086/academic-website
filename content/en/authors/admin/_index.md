@@ -52,6 +52,14 @@ interests:
   - Biostatistics
   - Machine Learning
 work:
+  - position: Research Assistant in Biomedical Data Science
+    company_name: Center of Biomedical and Health Research in Data Sciences
+    date_start: 2025-09-02
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+       - Build a model that predicts the effects of genetic variation on the functions of various tissues in the human brain under the supervision of professor Rachel Melamed.
+       - Apply the model to understand the biological basis of brain diseases.
   - position: STEM tutor
     company_name:
     date_start: 2025-07-02
@@ -59,14 +67,12 @@ work:
     summary: |2-
       Responsibilities include:
         - Tutoring mathematics and physics for Vietnamese high school students
-  - position: Undergrad Researcher at Computational Diesese Biology Lab
-    company_name: University of Massachusetts at Lowell
+  - position: Undergrad Researcher 
+    company_name: Computational Diesese Biology Lab
     date_start: 2025-06-02
-    date_end: ''
+    date_end: 2025-09-02
     summary: |2-
-      Responsibilities include:
-       - Modeling gene expression
-
+      - Doing research under the instruction of professor Rachel Melamed
 
 education:
 

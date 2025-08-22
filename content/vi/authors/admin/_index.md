@@ -47,21 +47,30 @@ interests:
   - Học máy
 
 work:
-  - position: Gia sư
-    company_name:
-    date_start: 2025-07-02
-    date_end: ''
+  - position: Trợ lý nghiên cứu (Research Assistant) về Khoa học dữ liệu sinh y học  
+    company_name: Trung tâm Nghiên cứu Dữ liệu Sinh học và Sức khỏe (Center of Biomedical and Health Research in Data Sciences)  
+    date_start: 2025-09-02  
+    date_end: ''  
     summary: |2-
-      Các công việc bao gồm:
-        - Hướng dẫn Toán và Vật Lý cho học sinh THPT ở Việt Nam
+      Nhiệm vụ bao gồm:
+       - Xây dựng mô hình dự đoán ảnh hưởng của các biến thể di truyền đến chức năng của nhiều loại mô trong não người dưới sự hướng dẫn của giáo sư Rachel Melamed.  
+       - Ứng dụng mô hình để hiểu cơ sở sinh học của các bệnh lý não.  
 
-  - position: Sinh viên nghiên cứu tại Rachel's Lab
-    company_name: Đại học Massachusetts ở Lowell
-    date_start: 2025-06-02
-    date_end: ''
+  - position: Gia sư STEM  
+    company_name:  
+    date_start: 2025-07-02  
+    date_end: ''  
     summary: |2-
-      Các công việc bao gồm:
-        - Mô hình hoá biểu hiện gene
+      Nhiệm vụ bao gồm:
+        - Gia sư môn Toán và Vật lý cho học sinh trung học Việt Nam.  
+
+  - position: Nghiên cứu sinh đại học (Undergrad Researcher)  
+    company_name: Phòng thí nghiệm Sinh học Tính toán về Bệnh học (Computational Disease Biology Lab)  
+    date_start: 2025-06-02  
+    date_end: 2025-09-02  
+    summary: |2-
+      - Thực hiện nghiên cứu dưới sự hướng dẫn của giáo sư Rachel Melamed.  
+
 
 education:
   - area: Cử nhân Khoa học Máy tính và Toán
