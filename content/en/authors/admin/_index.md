@@ -123,4 +123,4 @@ education:
 
 ## About Me
 
-I’m studying the University of Massachusetts Lowell, majoring in Computer Science and Mathematics. I’m passionate about applying computer science to the fields of Biology and Healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in Computational Disese Biology Lab.
+Hi I'm Nguyen and I come from Cantho, Vietnam. I’m a junior at the University of Massachusetts Lowell study in Computer Science and Mathematics. I’m passionate about applying computer science to the fields of Biology and Healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in Computational Disese Biology Lab.
