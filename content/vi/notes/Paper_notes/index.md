@@ -15,7 +15,7 @@ sections:
       title: Personal Note when reading a paper
 
       filters:
-        folders: readapaper
+        folders: papernote
           - 
     design:
       view: article-grid
