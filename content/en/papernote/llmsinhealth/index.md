@@ -1,10 +1,12 @@
 ---
-title: "Opportunities and Challenges for LLMs in Biomedicine and Health"
-date: 2025-08-27
-draft: false
-tags: ["computer_science", "llms", "biomedical", "health"]
-categories: ["AI in Healthcare"]
-summary: "Notes on the paper 'Opportunities and challenges for ChatGPT and large language models in biomedicine and health'"
+title: Opportunities and Challenges for LLMs in Biomedicine and Health
+date: 2025-05-30
+tags:
+    - Computer Science
+    - Data Science
+    - Large Languague Models
+    - Research
+	- Biomedicine and Health
 ---
 
 ## Abstract
