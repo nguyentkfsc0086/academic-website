@@ -15,8 +15,8 @@ sections:
       title: Personal Note when reading a paper
 
       filters:
-        folders:
-          - labnotes
+        folders: readapaper
+          - 
     design:
       view: article-grid
       fill_image: true
