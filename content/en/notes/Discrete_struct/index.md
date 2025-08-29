@@ -1,6 +1,6 @@
 ---
 title: Discrete Structure
-date: 2025-09-02
+date: 2025-08-02
 tags: 
     - Mathematics
     - UMass Lowell
