@@ -54,7 +54,7 @@ work:
     summary: |2-
       Nhiệm vụ bao gồm:
        - Xây dựng mô hình dự đoán ảnh hưởng của các biến thể di truyền đến chức năng của nhiều loại mô trong não người dưới sự hướng dẫn của giáo sư Rachel Melamed.  
-       - Ứng dụng mô hình để hiểu cơ sở sinh học của các bệnh lý não.  
+       - Áo dụng mô hình vào việc tìm hiểu cơ sở sinh học của các bệnh lý não.  
 
   - position: Gia sư STEM  
     company_name:  
@@ -74,7 +74,7 @@ work:
 
 education:
   - area: Cử nhân Khoa học Máy tính và Toán
-    institution: Đại học Massachusetts ở Lowell
+    institution: Đại học Massachusetts Lowell
     icon: graduation-cap
     date_start: 2025-09-03
     date_end: 2027-05-31
@@ -89,6 +89,7 @@ education:
 
       *Khoa học máy tính:*
       - Khoa học dữ liệu cho nhà sinh học
+      - Tổ chức ngôn ngữ lập trình
 
   - area: Cao đẳng Khoa học Máy tính (AS in Computer Science)
     institution: Bunker Hill Community College

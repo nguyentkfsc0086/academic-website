@@ -89,6 +89,7 @@ education:
           - Linear Algebra 2
         - Computer Science:
           - Data Science for Biologist
+          - Organization of Programing Languagues
   - area: AS in Computer Science
     institution: Bunker Hill Community College
     date_start: 2023-01-23
