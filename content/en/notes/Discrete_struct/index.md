@@ -8,73 +8,130 @@ tags:
 # Set theory
 
 - ## Set 
-  Definition: a collection of objects (called **elements**).  
+  Defination: a collection of objects (called **elements**).  
   Notation: {}
 
   **Example**:  
-  {{< math >}}
+  {{% math %}}
+  $$
   S = \{1,2,3,4,5\}
-  {{< /math >}}
+  $$
+  {{% /math %}}
 
   “2 is an element of S; 7 is not an element of S”:
-  {{< math >}}
+  {{% math %}}
+  $$
   2 \in S,\qquad 7 \notin S
-  {{< /math >}}
+  $$
+  {{% /math %}}
 
   **Properties**:  
   - A set is **not ordered**:
-    {{< math >}}
+    {{% math %}}
+    $$
     \{3,2,1\} = \{1,2,3\}
-    {{< /math >}}
+    $$
+    {{% /math %}}
   - The elements of a set are **unique**:
-    {{< math >}}
+    {{% math %}}
+    $$
     \{4,4\} = \{4\}
-    {{< /math >}}
+    $$
+    {{% /math %}}
 
   **Example** (English letters):  
-  {{< math >}}
+  {{% math %}}
+  $$
   A = \{a, b, c, d, \dots, x, y, z\}
-  {{< /math >}}
+  $$
+  {{% /math %}}
 
 ---
 
 - ## Common sets  
 
   Integers:  
-  {{< math >}}
+  {{% math %}}
+  $$
   \mathbb{Z}
-  {{< /math >}}
+  $$
+  {{% /math %}}
 
   Positive integers:  
-  {{< math >}}
+  {{% math %}}
+  $$
   \mathbb{P}
-  {{< /math >}}
+  $$
+  {{% /math %}}
 
   Rationals:  
-  {{< math >}}
+  {{% math %}}
+  $$
   \mathbb{Q} = \left\{\frac{a}{b} \,\middle|\, a,b \in \mathbb{Z},\; b \neq 0 \right\}
-  {{< /math >}}
+  $$
+  {{% /math %}}
 
   (Here the vertical bar “\(|\)” means **“such that.”**)
 
   Reals:  
-  {{< math >}}
+  {{% math %}}
+  $$
   \mathbb{R}
-  {{< /math >}}
+  $$
+  {{% /math %}}
 
   Complex numbers:  
-  {{< math >}}
+  {{% math %}}
+  $$
   \mathbb{C} = \{\, a + bi \mid a,b \in \mathbb{R},\; i^2 = -1 \,\}
-  {{< /math >}}
+  $$
+  {{% /math %}}
 
   **Example** (finite custom set):  
-  {{< math >}}
+  {{% math %}}
+  $$
   P = \{\text{cats in Lowell}\}
-  {{< /math >}}
+  $$
+  {{% /math %}}
 
 ---
 
 - ## Subset:  
   “\(B\) is a subset of \(A\)” means every element of \(B\) is also an element of \(A\)”:
-  {{< math >}}
-  B \subseteq A \
+  {{% math %}}
+  $$
+  B \subseteq A \;\Longleftrightarrow\; \forall x\, (x \in B \Rightarrow x \in A)
+  $$
+  {{% /math %}}
+
+  **Example**:  
+  {{% math %}}
+  $$
+  S = \{3,4,\{3,4\},7,\{1\}\}
+  $$
+  {{% /math %}}
+
+  Then:
+  {{% math %}}
+  $$
+  1 \notin S,\qquad \{1\} \in S,\qquad \{1\} \subseteq S
+  $$
+  {{% /math %}}
+
+---
+
+> **Facts**
+>
+> Every set is a subset of itself:
+> {{% math %}}
+> $$
+> A \subseteq A
+> $$
+> {{% /math %}}
+>
+> Two sets are equal iff they are subsets of each other:
+> {{% math %}}
+> $$
+> A = B \;\Longleftrightarrow\; (A \subseteq B \;\wedge\; B \subseteq A)
+> $$
+> {{% /math %}}
