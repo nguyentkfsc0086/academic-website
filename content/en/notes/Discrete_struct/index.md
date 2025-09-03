@@ -5,6 +5,7 @@ tags:
     - Mathematics
     - UMass Lowell
 ---
+- Discrete Structure (MATH 2010) Fall 2025 at UMass Lowell
 # Set theory
 
 - ## Set 
