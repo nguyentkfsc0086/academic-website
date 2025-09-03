@@ -12,9 +12,9 @@ tags:
   Notation: {}
 
   **Example**:  
-  {{< math >}}
+  {{<math>}}
   S = \{1,2,3,4,5\}
-  {{< /math >}}
+  {{</math>}}
 
   “2 is an element of S; 7 is not an element of S”:
   {{< math >}}
