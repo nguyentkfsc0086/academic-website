@@ -62,4 +62,17 @@ design:
     gradient_angle: 180
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - ['\\[', '\\]']
+            - ['$$', '$$']
+          inline:
+            - ['\\(', '\\)']
 
+params:
+  math: true
