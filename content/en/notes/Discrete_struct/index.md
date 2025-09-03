@@ -7,7 +7,7 @@ tags:
 ---
 # Set theory
 
-- **Set**: a collection of objects (called **elements**).  
+- ## Set: a collection of objects (called **elements**).  
   Notation: `{ }`
 
   **Example**:  
@@ -26,19 +26,20 @@ tags:
 
 ---
 
-- **Common sets**:  
-  - $\mathbb{Z}$ = the set of integers (positive and negative).  
+- ## Common sets:  
+  - $\mathbb{Z}$ = the set of integers (positive, negative, and $0$).  
   - $\mathbb{P}$ = the set of positive integers.  
-  - $\mathbb{Q}$ = the set of rational numbers (numbers that can be written as fractions):  
-    $$
-    \mathbb{Q} = \left\{\frac{a}{b} \;\middle|\; a,b \in \mathbb{Z},\; b \neq 0 \right\}
-    $$
-    (The vertical bar “$\mid$” means *“such that”*, i.e., the condition on the right.)  
+  - $\mathbb{Q}$ = the set of rational numbers (fractions):  
+
+    $$\mathbb{Q} = \left\{ \tfrac{a}{b} \;\middle|\; a,b \in \mathbb{Z},\; b \neq 0 \right\}$$  
+
+    (The vertical bar `|` means *“such that”*.)  
+
   - $\mathbb{R}$ = the set of real numbers (all numbers on the number line).  
   - $\mathbb{C}$ = the set of complex numbers:  
-    $$
-    \mathbb{C} = \{a + bi \;\mid\; a,b \in \mathbb{R},\; i^2 = -1\}
-    $$
+
+    $$\mathbb{C} = \{ a + bi \;\mid\; a,b \in \mathbb{R},\; i^2 = -1 \}$$  
+
     (In this class, $\mathbb{R}$ and $\mathbb{C}$ will not appear much.)  
 
   **Example**:  
@@ -46,11 +47,10 @@ tags:
 
 ---
 
-- **Subset**:  
+- ## Subset:  
   Given sets $A$ and $B$, we say **“$B$ is a subset of $A$”** if every element of $B$ is also an element of $A$:  
-  $$
-  B \subseteq A \quad \Longleftrightarrow \quad \forall x \;(x \in B \implies x \in A)
-  $$  
+
+  $$B \subseteq A \;\;\Longleftrightarrow\;\; \forall x \;(x \in B \implies x \in A)$$  
 
   **Example**:  
   $S = \{3,4,\{3,4\},7,\{1\}\}$  
@@ -60,10 +60,8 @@ tags:
 
 ---
 
-> **Additional informations**:  
+> **Facts**:  
 > - Every set is a subset of itself:  
->   $A \subseteq A$  
+>   $$A \subseteq A$$  
 > - Two sets are equal if and only if they are subsets of each other:  
->   $$
->   A = B \;\;\Longleftrightarrow\;\; (A \subseteq B \;\wedge\; B \subseteq A)
->   $$
+>   $$A = B \;\;\Longleftrightarrow\;\; (A \subseteq B \;\wedge\; B \subseteq A)$$
