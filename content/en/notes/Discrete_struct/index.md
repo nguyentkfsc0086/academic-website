@@ -18,15 +18,21 @@ tags:
   $$
   {{% /math %}}
 
-  “2 is an element of S; 7 is not an element of S”:
+  “2 is an element of S": 
   {{% math %}}
   $$
-  2 \in S,\qquad 7 \notin S
+  2 \in S
+  $$
+  {{% /math %}}
+  "7 is not an element of S”:
+  {{% math %}}
+  $$
+  \qquad 7 \notin S
   $$
   {{% /math %}}
 
   **Properties**:  
-  - A set is **not ordered**:
+  - A set is **not an ordered list** so we can understand that:
     {{% math %}}
     $$
     \{3,2,1\} = \{1,2,3\}
@@ -38,7 +44,7 @@ tags:
     \{4,4\} = \{4\}
     $$
     {{% /math %}}
-
+     But nobody using the set on the right side
   **Example** (English letters):  
   {{% math %}}
   $$
@@ -64,7 +70,7 @@ tags:
   $$
   {{% /math %}}
 
-  Rationals:  
+  Rationals: any number can be written as a fraction
   {{% math %}}
   $$
   \mathbb{Q} = \left\{\frac{a}{b} \,\middle|\, a,b \in \mathbb{Z},\; b \neq 0 \right\}
@@ -73,26 +79,27 @@ tags:
 
   (Here the vertical bar “\(|\)” means **“such that.”**)
 
-  Reals:  
+  Reals: 
   {{% math %}}
   $$
   \mathbb{R}
   $$
   {{% /math %}}
 
-  Complex numbers:  
+  Complex numbers: including imaginary number,.... 
   {{% math %}}
   $$
   \mathbb{C} = \{\, a + bi \mid a,b \in \mathbb{R},\; i^2 = -1 \,\}
   $$
   {{% /math %}}
 
-  **Example** (finite custom set):  
-  {{% math %}}
-  $$
-  P = \{\text{cats in Lowell}\}
-  $$
-  {{% /math %}}
+  We cam also create our custom set
+    **Example** (finite custom set):  
+    {{% math %}}
+    $$
+    P = \{\text{cats in Lowell}\}
+    $$
+    {{% /math %}}
 
 ---
 
@@ -124,14 +131,14 @@ tags:
 >
 > Every set is a subset of itself:
 > {{% math %}}
-> $$
+$$
 > A \subseteq A
-> $$
+$$
 > {{% /math %}}
 >
 > Two sets are equal iff they are subsets of each other:
 > {{% math %}}
-> $$
-> A = B \;\Longleftrightarrow\; (A \subseteq B \;\wedge\; B \subseteq A)
-> $$
+$$
+A = B \;\Longleftrightarrow\; (A \subseteq B \;\wedge\; B \subseteq A)
+$$
 > {{% /math %}}
