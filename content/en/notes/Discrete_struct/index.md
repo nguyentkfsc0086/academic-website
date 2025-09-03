@@ -8,13 +8,13 @@ tags:
 # Set theory
 
 - ## Set 
-  Defination: a collection of objects (called **elements**).  
+  Definition: a collection of objects (called **elements**).  
   Notation: {}
 
   **Example**:  
-  {{<math>}}
+  {{< math >}}
   S = \{1,2,3,4,5\}
-  {{</math>}}
+  {{< /math >}}
 
   “2 is an element of S; 7 is not an element of S”:
   {{< math >}}
@@ -77,29 +77,4 @@ tags:
 - ## Subset:  
   “\(B\) is a subset of \(A\)” means every element of \(B\) is also an element of \(A\)”:
   {{< math >}}
-  B \subseteq A \;\Longleftrightarrow\; \forall x\, (x \in B \Rightarrow x \in A)
-  {{< /math >}}
-
-  **Example**:  
-  {{< math >}}
-  S = \{3,4,\{3,4\},7,\{1\}\}
-  {{< /math >}}
-
-  Then:
-  {{< math >}}
-  1 \notin S,\qquad \{1\} \in S,\qquad \{1\} \subseteq S
-  {{< /math >}}
-
----
-
-> **Facts**
->
-> Every set is a subset of itself:
-> {{< math >}}
-> A \subseteq A
-> {{< /math >}}
->
-> Two sets are equal iff they are subsets of each other:
-> {{< math >}}
-> A = B \;\Longleftrightarrow\; (A \subseteq B \;\wedge\; B \subseteq A)
-> {{< /math >}}
+  B \subseteq A \
