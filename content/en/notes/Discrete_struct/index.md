@@ -7,61 +7,99 @@ tags:
 ---
 # Set theory
 
-- ## Set: a collection of objects (called **elements**).  
-  Notation: `{ }`
+- ## Set 
+  Defination: a collection of objects (called **elements**).  
+  Notation: {}
 
   **Example**:  
-  $S = \{1,2,3,4,5\}$ → the elements of $S$ are integers.  
-  - $2 \in S$ → “2 is an element of $S$”  
-  - $7 \notin S$ → “7 is not an element of $S$”  
+  {{< math >}}
+  S = \{1,2,3,4,5\}
+  {{< /math >}}
+
+  “2 is an element of S; 7 is not an element of S”:
+  {{< math >}}
+  2 \in S,\qquad 7 \notin S
+  {{< /math >}}
 
   **Properties**:  
-  - A set is **not ordered**: $\{3,2,1\} = \{1,2,3\}$  
-  - The elements of a set are **unique**: $\{4,4\} = \{4\}$  
+  - A set is **not ordered**:
+    {{< math >}}
+    \{3,2,1\} = \{1,2,3\}
+    {{< /math >}}
+  - The elements of a set are **unique**:
+    {{< math >}}
+    \{4,4\} = \{4\}
+    {{< /math >}}
 
-  **Example**:  
-  $A = \{a, b, c, d, \dots, x, y, z\}$  
-  → here the dots mean “keep going.”  
-  In this case, $A$ is the set of English letters.
+  **Example** (English letters):  
+  {{< math >}}
+  A = \{a, b, c, d, \dots, x, y, z\}
+  {{< /math >}}
 
 ---
 
-- ## Common sets:  
-  - $\mathbb{Z}$ = the set of integers (positive, negative, and $0$).  
-  - $\mathbb{P}$ = the set of positive integers.  
-  - $\mathbb{Q}$ = the set of rational numbers (fractions):  
+- ## Common sets  
 
-    $$\mathbb{Q} = \left\{ \tfrac{a}{b} \;\middle|\; a,b \in \mathbb{Z},\; b \neq 0 \right\}$$  
+  Integers:  
+  {{< math >}}
+  \mathbb{Z}
+  {{< /math >}}
 
-    (The vertical bar `|` means *“such that”*.)  
+  Positive integers:  
+  {{< math >}}
+  \mathbb{P}
+  {{< /math >}}
 
-  - $\mathbb{R}$ = the set of real numbers (all numbers on the number line).  
-  - $\mathbb{C}$ = the set of complex numbers:  
+  Rationals:  
+  {{< math >}}
+  \mathbb{Q} = \left\{\frac{a}{b} \,\middle|\, a,b \in \mathbb{Z},\; b \neq 0 \right\}
+  {{< /math >}}
 
-    $$\mathbb{C} = \{ a + bi \;\mid\; a,b \in \mathbb{R},\; i^2 = -1 \}$$  
+  (Here the vertical bar “\(|\)” means **“such that.”**)
 
-    (In this class, $\mathbb{R}$ and $\mathbb{C}$ will not appear much.)  
+  Reals:  
+  {{< math >}}
+  \mathbb{R}
+  {{< /math >}}
 
-  **Example**:  
-  $P =$ the set of cats in Lowell → this is a finite set.  
+  Complex numbers:  
+  {{< math >}}
+  \mathbb{C} = \{\, a + bi \mid a,b \in \mathbb{R},\; i^2 = -1 \,\}
+  {{< /math >}}
+
+  **Example** (finite custom set):  
+  {{< math >}}
+  P = \{\text{cats in Lowell}\}
+  {{< /math >}}
 
 ---
 
 - ## Subset:  
-  Given sets $A$ and $B$, we say **“$B$ is a subset of $A$”** if every element of $B$ is also an element of $A$:  
-
-  $$B \subseteq A \;\;\Longleftrightarrow\;\; \forall x \;(x \in B \implies x \in A)$$  
+  “\(B\) is a subset of \(A\)” means every element of \(B\) is also an element of \(A\)”:
+  {{< math >}}
+  B \subseteq A \;\Longleftrightarrow\; \forall x\, (x \in B \Rightarrow x \in A)
+  {{< /math >}}
 
   **Example**:  
-  $S = \{3,4,\{3,4\},7,\{1\}\}$  
-  - $1 \notin S$  
-  - $\{1\} \in S$  
-  - $\{1\} \subseteq S$  
+  {{< math >}}
+  S = \{3,4,\{3,4\},7,\{1\}\}
+  {{< /math >}}
+
+  Then:
+  {{< math >}}
+  1 \notin S,\qquad \{1\} \in S,\qquad \{1\} \subseteq S
+  {{< /math >}}
 
 ---
 
-> **Facts**:  
-> - Every set is a subset of itself:  
->   $$A \subseteq A$$  
-> - Two sets are equal if and only if they are subsets of each other:  
->   $$A = B \;\;\Longleftrightarrow\;\; (A \subseteq B \;\wedge\; B \subseteq A)$$
+> **Facts**
+>
+> Every set is a subset of itself:
+> {{< math >}}
+> A \subseteq A
+> {{< /math >}}
+>
+> Two sets are equal iff they are subsets of each other:
+> {{< math >}}
+> A = B \;\Longleftrightarrow\; (A \subseteq B \;\wedge\; B \subseteq A)
+> {{< /math >}}
