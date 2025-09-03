@@ -133,7 +133,7 @@ tags:
 > Every set is a subset of itself:
 > {{% math %}}
 $$
-> A \subseteq A
+A \subseteq A
 $$
 > {{% /math %}}
 >

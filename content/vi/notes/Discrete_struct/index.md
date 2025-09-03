@@ -133,14 +133,14 @@ tags:
 > **Một số tính chất**  
 > - Mọi tập hợp đều là tập con của chính nó:  
 >   {{% math %}}
->   $$
->   A \subseteq A
->   $$
+$$
+   A \subseteq A
+$$
 >   {{% /math %}}
 >
 > - Hai tập hợp bằng nhau khi và chỉ khi chúng là tập con của nhau:  
 >   {{% math %}}
->   $$
->   A = B \;\Longleftrightarrow\; (A \subseteq B \;\wedge\; B \subseteq A)
->   $$
+$$
+A = B \;\Longleftrightarrow\; (A \subseteq B \;\wedge\; B \subseteq A)
+$$
 >   {{% /math %}}
