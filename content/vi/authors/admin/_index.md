@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:nguyentrankhoi1201@gmail.com'
     label: Gửi email cho tôi
   - icon: brands/instagram
-    url: https://www.instagram.com/bunbohuevida/
+    url: https://www.instagram.com/boiphonongthon
   - icon: brands/github
     url: https://github.com/nguyentkfsc0086
   - icon: brands/linkedin
