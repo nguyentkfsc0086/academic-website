@@ -8,15 +8,6 @@ tags:
     - UMass Lowell
 ---
 
----
-title: "Data Science Preparation Notes"
-date: 2025-09-05
-draft: false
-tags: ["data-science", "notes", "class-prep"]
-categories: ["Study Notes"]
-summary: "Class preparation notes from September 2–5, 2025 on data science basics: what it is, how to get from data to insight, and key definitions."
----
-
 # 9/2/2025
 
 ## Preparation
@@ -30,9 +21,6 @@ summary: "Class preparation notes from September 2–5, 2025 on data science bas
 
 ## What is data science?
 - Understand data to do real science.
-
-## How to go from data to insight?
-- (notes to be expanded)
 
 ---
 
