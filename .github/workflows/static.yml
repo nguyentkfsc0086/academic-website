@@ -1,0 +1,51 @@
+# .github/workflows/pages.yml
+name: Deploy Hugo to Pages
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: read
+  pages: write          # REQUIRED
+  id-token: write       # REQUIRED
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # (Optional) Setup Hugo – uses your WC_HUGO_VERSION env
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "${{ env.WC_HUGO_VERSION || '0.136.5' }}"
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          # Let the action enable/configure Pages automatically
+          enablement: true
+
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
