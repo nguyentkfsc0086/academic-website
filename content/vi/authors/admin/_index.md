@@ -48,8 +48,8 @@ interests:
 
 work:
   - position: Trợ lý nghiên cứu (Research Assistant) về Khoa học dữ liệu sinh y học  
-    company_name: Trung tâm Nghiên cứu Dữ liệu Sinh học và Sức khỏe (Center of Biomedical and Health Research in Data Sciences)  
-    date_start: 2025-09-02  
+    company_name: Phòng thí nghiệm Sinh học Tính toán về Bệnh học (Computational Disease Biology Lab) 
+    date_start: 2025-06-15
     date_end: ''  
     summary: |2-
       Nhiệm vụ bao gồm:
@@ -64,16 +64,10 @@ work:
       Nhiệm vụ bao gồm:
         - Gia sư môn Toán và Vật lý cho học sinh trung học Việt Nam.  
 
-  - position: Nghiên cứu sinh đại học (Undergrad Researcher)  
-    company_name: Phòng thí nghiệm Sinh học Tính toán về Bệnh học (Computational Disease Biology Lab)  
-    date_start: 2025-06-02  
-    date_end: 2025-09-02  
-    summary: |2-
-      - Thực hiện nghiên cứu dưới sự hướng dẫn của giáo sư Rachel Melamed.  
 
 
 education:
-  - area: Cử nhân Khoa học Máy tính và Toán
+  - area: Cử nhân Khoa học Toán ứng dụng và Thống kê ()
     institution: Đại học Massachusetts Lowell
     icon: graduation-cap
     date_start: 2025-09-03
@@ -116,4 +110,4 @@ education:
 
 ## Giới thiệu bản thân
 
-Xin chào! Mình là Nguyên đến từ Cần Thơ. Hiện tại mình đang là sinh viên năm 3 ngành Khoa Học Máy Tính và Toán Ứng Dụng tại trường UMass Lowell. Mình hy vọng có thể ứng dụng những kiến thức của mình về Toán và Khoa Học Máy Tính vào lĩnh vực Sinh Học hoặc là Chăm Sóc Sức Khoẻ. Hiện tại, mình đang làm nghiên cứu với sự hưỡng dẫn của giáo sư Rachel Melamed ở khoa Sinh học thuộc trường UMass Lowell.
+Xin chào! Mình là Nguyên đến từ Cần Thơ. Hiện tại mình đang là sinh viên năm 3 ngành Toán ứng dụng và Thống kê tại trường UMass Lowell. Mình hy vọng có thể ứng dụng những kiến thức của mình về Toán và Thống kê vào lĩnh vực Sinh Học hoặc là Chăm Sóc Sức Khoẻ. Hiện tại, mình đang làm nghiên cứu với sự hưỡng dẫn của giáo sư Rachel Melamed ở khoa Sinh học thuộc trường UMass Lowell.
