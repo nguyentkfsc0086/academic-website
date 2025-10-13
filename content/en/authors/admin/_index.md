@@ -70,7 +70,7 @@ work:
 
 education:
 
-  - area: BS in Computer Science and Mathematics
+  - area: BS in Applied Math and Statistics
     institution: University of Massachusetts at Lowell
     date_start: 2025-09-03
     date_end: 2027-05-31

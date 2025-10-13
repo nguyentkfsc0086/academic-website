@@ -67,7 +67,7 @@ work:
 
 
 education:
-  - area: Cử nhân Khoa học Toán ứng dụng và Thống kê ()
+  - area: Cử nhân Khoa học Toán ứng dụng và Thống kê
     institution: Đại học Massachusetts Lowell
     icon: graduation-cap
     date_start: 2025-09-03
