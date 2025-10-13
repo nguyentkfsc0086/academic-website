@@ -48,7 +48,6 @@ profiles:
 
 interests:
   - Computational Biology
-  - Bioinformatics
   - Biostatistics
   - Machine Learning
 work:

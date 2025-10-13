@@ -41,7 +41,6 @@ profiles:
     url: https://www.linkedin.com/in/nguyentran04/
 
 interests:
-  - Tin sinh
   - Sinh học tính toán
   - Thống kê sinh học
   - Học máy
