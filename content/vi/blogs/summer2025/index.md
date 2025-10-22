@@ -1,3 +1,12 @@
+---
+title: Hè 2025
+date: 2025-10-22
+type: post
+tags:
+    - life
+    - personal
+    - relationship
+---
 # Intro
 
 Mùa hè 2025 có lẽ là mùa hè ý nghĩa nhất của mình cho đến thời điểm hiện tại. Mình được trải nghiệm rất nhiều thứ, nhận được nhiều và cũng mất nhiều. Blog này là để recap lại mùa hè thứ 2 của mình ở nước Mỹ.
