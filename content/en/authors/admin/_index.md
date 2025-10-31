@@ -50,6 +50,7 @@ interests:
   - Computational Biology
   - Biostatistics
   - Machine Learning
+  - Modeling Mathematics
 work:
   - position: Research Assistant in Biomedical Data Science
     company_name: Computational Diesese Biology Lab
