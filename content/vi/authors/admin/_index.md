@@ -44,6 +44,7 @@ interests:
   - Sinh học tính toán
   - Thống kê sinh học
   - Học máy
+  - Mô hình toán học
 
 work:
   - position: Trợ lý nghiên cứu (Research Assistant) về Khoa học dữ liệu sinh y học  
