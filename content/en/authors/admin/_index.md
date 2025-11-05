@@ -53,17 +53,17 @@ interests:
   - Modeling Mathematics
 work:
   - position: Research Assistant in Biomedical Data Science
-    company_name: Department of Biological Science, University
-of Massachusetts Lowell.
+    company_name: Department of Biological Science, University of Massachusetts Lowell
     advisor: Rachel Melamed, PhD
     date_start: 2025-06-15
     date_end: ''
     summary: |2-
+      Advisor: Dr. Rachel Melamed, PhD
       Responsibilities include:
-        - Implement PrediXcan method into the 866 GTEX subjects to build the models to predict gene expression at
-15044 genes and 103 tissues from genotype data
-        - Obtain and prepare ready to train data from large dataset (270 GB vcf file)
-        - Takes ownership of their project, make research plan and agenda for weekly 1-1 meeting with advisor
+        - Implement PrediXcan method on 866 GTEx subjects to build models predicting gene expression at 15,044 genes across 103 tissues
+        - Prepare and manage large-scale genotype datasets (270 GB VCF file)
+        - Develop independent research plans and lead weekly 1-on-1 progress meetings with advisor
+
   - position: STEM tutor
     company_name:
     date_start: 2025-07-02
