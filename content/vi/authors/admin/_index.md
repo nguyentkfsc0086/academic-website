@@ -48,8 +48,8 @@ Quan tâm đến:
 
 work:
   - position: Trợ lý nghiên cứu (Research Assistant) về Khoa học dữ liệu sinh y học  
-    company_name: Khoa Sinh học, Đại học Massachusetts Lowell
-    advisor: Tiến sĩ Rachel D. Melamed
+    company_name: Khoa Sinh học, Đại học Massachusetts Lowell \
+    Cố vấn: Tiến sĩ Rachel D. Melamed
     date_start: 2025-06-15
     date_end: ''  
     summary: |2-
