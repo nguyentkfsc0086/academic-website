@@ -48,13 +48,16 @@ Quan tâm đến:
 
 work:
   - position: Trợ lý nghiên cứu (Research Assistant) về Khoa học dữ liệu sinh y học  
-    company_name: Phòng thí nghiệm Sinh học Tính toán về Bệnh học (Computational Disease Biology Lab) 
+    company_name: Khoa Sinh học, Đại học Massachusetts Lowell
+    advisor: Tiến sĩ Rachel D. Melamed
     date_start: 2025-06-15
     date_end: ''  
     summary: |2-
       Nhiệm vụ bao gồm:
-       - Xây dựng mô hình dự đoán ảnh hưởng của các biến thể di truyền đến chức năng của nhiều loại mô trong não người dưới sự hướng dẫn của giáo sư Rachel Melamed.  
-       - Áo dụng mô hình vào việc tìm hiểu cơ sở sinh học của các bệnh lý não.  
+        - Triển khai phương pháp PrediXcan vào 866 đối tượng GTEX để xây dựng mô hình dự đoán biểu hiện gen tại
+15044 gen và 103 mô từ dữ liệu kiểu gen
+        - Thu thập và chuẩn bị dữ liệu sẵn sàng để huấn luyện từ bộ dữ liệu lớn (tệp vcf 270 GB)
+        - Chịu trách nhiệm về dự án của mình, lập kế hoạch nghiên cứu và chương trình nghị sự cho buổi họp 1-1 hàng tuần với cố vấn
 
   - position: Gia sư STEM  
     company_name:  
