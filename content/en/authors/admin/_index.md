@@ -55,7 +55,7 @@ work:
   - position: Research Assistant in Biomedical Data Science
     company_name: Department of Biological Science, University
 of Massachusetts Lowell.
-    Advisor: Rachel Melamed, PhD
+    advisor: Rachel Melamed, PhD
     date_start: 2025-06-15
     date_end: ''
     summary: |2-
