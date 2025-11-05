@@ -78,7 +78,7 @@ education:
 
       *Toán học:*
       - Cấu trúc rời rạc 1
-      - Phương trình vi phân riêng phần
+      - Phương trình vi phân từng phần
       - Đại số tuyến tính 2
 
       *Khoa học máy tính:*
@@ -97,7 +97,7 @@ education:
       *Toán học:*
       - Giải tích 1, 2, 3
       - Đại số tuyến tính
-      - Phương trình vi phân thường
+      - Phương trình vi phân
 
       *Khoa học máy tính:*
       - Lập trình C++
@@ -110,4 +110,4 @@ education:
 
 ## Giới thiệu bản thân
 
-Xin chào! Mình là Nguyên đến từ Cần Thơ. Hiện tại mình đang là sinh viên năm 3 ngành Toán ứng dụng và Thống kê tại trường UMass Lowell. Mình hy vọng có thể ứng dụng những kiến thức của mình về Toán và Thống kê vào lĩnh vực Sinh Học hoặc là Chăm Sóc Sức Khoẻ. Hiện tại, mình đang làm nghiên cứu với sự hưỡng dẫn của giáo sư Rachel Melamed ở khoa Sinh học thuộc trường UMass Lowell.
+Xin chào! Mình là Nguyên đến từ Cần Thơ. Hiện tại mình đang là sinh viên năm 3 ngành Toán ứng dụng và Thống kê tại trường UMass Lowell. Mình hy vọng có thể ứng dụng những kiến thức của mình về Toán và Thống kê vào lĩnh vực Sinh Học và Y Sinh. Hiện tại, mình đang làm nghiên cứu với sự hưỡng dẫn của giáo sư Rachel Melamed ở Phòng thí nghiệm Sinh học Tính toán về Bệnh học (Computational Disease Biology Lab) thuộc trường Trung tâm nghiên cứu y sinh và sức khỏe trong khoa học dữ liệu (Center of Biomedical and Health Research in Data Sciences).
