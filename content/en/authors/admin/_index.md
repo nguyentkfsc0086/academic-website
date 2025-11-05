@@ -52,7 +52,6 @@ interests:
   - Machine Learning
   - Modeling Mathematics
 work:
- Hire me so I can put your name in this section
   - position: Research Assistant in Biomedical Data Science
     company_name: Department of Biological Science, University of Massachusetts Lowell
     advisor: Rachel Melamed, PhD
