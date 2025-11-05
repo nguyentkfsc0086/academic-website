@@ -53,13 +53,17 @@ interests:
   - Modeling Mathematics
 work:
   - position: Research Assistant in Biomedical Data Science
-    company_name: Computational Diesese Biology Lab
+    company_name: Department of Biological Science, University
+of Massachusetts Lowell.
+    Advisor: Rachel Melamed, PhD
     date_start: 2025-06-15
     date_end: ''
     summary: |2-
       Responsibilities include:
-       - Build a model that predicts the effects of genetic variation on the functions of various tissues in the human brain under the supervision of professor Rachel Melamed.
-       - Apply the model to understand the biological basis of brain diseases.
+        - Implement PrediXcan method into the 866 GTEX subjects to build the models to predict gene expression at
+15044 genes and 103 tissues from genotype data
+        - Obtain and prepare ready to train data from large dataset (270 GB vcf file)
+        - Takes ownership of their project, make research plan and agenda for weekly 1-1 meeting with advisor
   - position: STEM tutor
     company_name:
     date_start: 2025-07-02
