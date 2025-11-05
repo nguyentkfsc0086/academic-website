@@ -52,6 +52,7 @@ interests:
   - Machine Learning
   - Modeling Mathematics
 work:
+ Hire me so I can put your name in this section
   - position: Research Assistant in Biomedical Data Science
     company_name: Department of Biological Science, University of Massachusetts Lowell
     advisor: Rachel Melamed, PhD
@@ -112,6 +113,11 @@ education:
  
 
 # Awards.
+- title: International Transfer Academic Achievement Award
+  awarder: University of Massachusetts Lowell
+  date: 2025-09-01
+  summary: |
+    - $13 000/year for 4 years (total $52 000)
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
