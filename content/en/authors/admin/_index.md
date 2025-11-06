@@ -126,4 +126,4 @@ Awards:
 
 ## About Me
 
-Hi I'm Nguyen and I come from Cantho, Vietnam. I’m a junior at the University of Massachusetts Lowell study in Applied Mathematics and Statistics. I’m passionate about applying statistical method to the fields of Biology and Healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in Computational Disese Biology Lab, Center of Biomedical and Health Research in Data Sciences.
+Hi I'm Nguyen and I come from Cantho, Vietnam. I’m a junior at the University of Massachusetts Lowell study in Applied Mathematics and Statistics. I’m passionate about applying statistical and computational methods to the fields of Biology and Healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in Computational Disese Biology Lab, Center of Biomedical and Health Research in Data Sciences.
