@@ -58,8 +58,7 @@ work:
     date_start: 2025-06-15
     date_end: ''
     summary: |2-
-      Advisor: Dr. Rachel Melamed, PhD
-      Responsibilities include:
+      Advisor: Rachel Melamed, PhD
         - Implement PrediXcan method on 866 GTEx subjects to build models predicting gene expression at 15,044 genes across 103 tissues
         - Prepare and manage large-scale genotype datasets (270 GB VCF file)
         - Develop independent research plans and lead weekly 1-on-1 progress meetings with advisor
@@ -67,9 +66,8 @@ work:
   - position: STEM tutor
     company_name:
     date_start: 2025-07-02
-    date_end: ''
+    date_end: 2025-09-01
     summary: |2-
-      Responsibilities include:
         - Tutoring mathematics and physics for Vietnamese high school students
 
 education:
