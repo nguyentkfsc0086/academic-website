@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:nguyentrankhoi1201@gmail.com'
     label: Gửi email cho tôi
   - icon: brands/instagram
-    url: https://www.instagram.com/boiphonongthon
+    url: https://www.instagram.com/langtwcond0n
   - icon: brands/github
     url: https://github.com/nguyentkfsc0086
   - icon: brands/linkedin
@@ -53,8 +53,7 @@ work:
     date_start: "2025-06-15"
     date_end: ""
     summary: |2-
-      Cố vấn khoa học: TS. Rachel D. Melamed
-      Nhiệm vụ bao gồm:
+      Cố vấn khoa học: Tiến sĩ Rachel D. Melamed
         - Triển khai phương pháp PrediXcan trên 866 đối tượng GTEx để xây dựng mô hình dự đoán biểu hiện gen cho 15.044 gen trên 103 mô từ dữ liệu kiểu gen
         - Thu thập và tiền xử lý dữ liệu quy mô lớn (tệp VCF ~270 GB) để sẵn sàng huấn luyện
         - Chủ động sở hữu dự án: lập kế hoạch nghiên cứu và chương trình nghị sự cho các buổi họp 1–1 hằng tuần với cố vấn
@@ -63,9 +62,8 @@ work:
   - position: Gia sư STEM  
     company_name:  
     date_start: 2025-07-02  
-    date_end: ''  
+    date_end: 2025-09-01 
     summary: |2-
-      Nhiệm vụ bao gồm:
         - Gia sư môn Toán và Vật lý cho học sinh trung học Việt Nam.  
 
 
