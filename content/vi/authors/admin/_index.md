@@ -114,4 +114,4 @@ education:
 
 ## Giới thiệu bản thân
 
-Xin chào! Mình là Nguyên đến từ Cần Thơ. Hiện tại mình đang là sinh viên năm 3 ngành Toán ứng dụng và Thống kê tại trường UMass Lowell. Mình hy vọng có thể ứng dụng những kiến thức của mình về Toán và Thống kê vào lĩnh vực Sinh Học và Y Sinh. Hiện tại, mình đang làm nghiên cứu với sự hưỡng dẫn của giáo sư Rachel Melamed ở Phòng thí nghiệm Sinh học Tính toán về Bệnh học (Computational Disease Biology Lab) thuộc trường Trung tâm nghiên cứu y sinh và sức khỏe trong khoa học dữ liệu (Center of Biomedical and Health Research in Data Sciences).
+Xin chào! Mình là Nguyên đến từ Cần Thơ. Hiện tại mình đang là sinh viên năm 3 ngành Toán ứng dụng và Thống kê tại trường UMass Lowell. Mình hy vọng có thể ứng dụng những kiến thức của mình về Toán và Thống kê vào lĩnh vực Sinh Học và Y Sinh. Mình thích uông Coconut Mango Boom của Heytea và thích ăn Bún bò Huế
