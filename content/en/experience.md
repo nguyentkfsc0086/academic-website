@@ -11,8 +11,8 @@ design:
 # Page sections
 sections:
   - block: resume-experience
-    text: Hire me if you want your company's name in this section
     content:
+      text: Hire me if you want your company's name in this section
       username: admin
     design:
       # Hugo date format
