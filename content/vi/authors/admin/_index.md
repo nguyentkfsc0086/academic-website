@@ -49,11 +49,11 @@ Quan tâm đến:
 work:
   - position: "Trợ lý nghiên cứu (Research Assistant) về Khoa học dữ liệu sinh y học"
     company_name: "Khoa Sinh học, Đại học Massachusetts Lowell"
-    advisor: "TS. Rachel D. Melamed"
+    
     date_start: "2025-06-15"
     date_end: ""
     summary: |2-
-      Cố vấn khoa học: Tiến sĩ Rachel D. Melamed
+      Giáo sư hướng dẫn (aka má nuôi): Tiến sĩ Rachel D. Melamed
         - Triển khai phương pháp PrediXcan trên 866 đối tượng GTEx để xây dựng mô hình dự đoán biểu hiện gen cho 15.044 gen trên 103 mô từ dữ liệu kiểu gen
         - Thu thập và tiền xử lý dữ liệu quy mô lớn (tệp VCF ~270 GB) để sẵn sàng huấn luyện
         - Chủ động sở hữu dự án: lập kế hoạch nghiên cứu và chương trình nghị sự cho các buổi họp 1–1 hằng tuần với cố vấn
