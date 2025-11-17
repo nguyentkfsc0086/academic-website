@@ -11,6 +11,7 @@ design:
 # Page sections
 sections:
   - block: resume-experience
+    text: Hãy tuyển mình nếu bạn muốn tên của công ty bạn ở đây
     content:
       username: admin
     design:
