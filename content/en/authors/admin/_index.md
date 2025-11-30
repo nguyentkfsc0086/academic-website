@@ -47,10 +47,9 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Computational Biology
   - Biostatistics
   - Machine Learning
-  - Modeling Mathematics
+  - Statistical Modeling
 work:
   - position: Research Assistant in Biomedical Data Science
     company_name: Department of Biological Science, University of Massachusetts Lowell
