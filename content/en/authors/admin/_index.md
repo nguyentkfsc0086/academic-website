@@ -51,10 +51,9 @@ interests:
   - Machine Learning
   - Statistical Modeling
 work:
-  - position: Research Assistant in Biomedical Data Science
-    company_name: ![Department of Biological Science, University of Massachusetts Lowell](https://rdmelamed.github.io/)
+  - position: "[Research Assistant in Biomedical Data Science](https://rdmelamed.github.io/)"
+    company_name: Department of Biological Science, University of Massachusetts Lowell
     advisor: Rachel Melamed, PhD
-    date_start: 2025-06-15
     date_end: ''
     summary: |2-
       Advisor (aka the person adopted me): Rachel Melamed, PhD
