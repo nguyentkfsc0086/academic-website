@@ -8,7 +8,7 @@ tags:
 
 **1. Xác định mục tiêu của bạn**  
 Tại sao mình lại đọc bài báo này? Có một bảng liệt kê những ưu tiên cần tập trung tuỳ thuộc vào mục đích đọc bài.  
-![Bảng 1](static/uploads/media/table1.png "table")
+![Bảng 1](/uploads/media/table1.png "table")
 
 **2. Hiểu mục tiêu của tác giả**  
 Cố gắng xác định: tác giả là ai? Họ quan tâm đến điều gì? Chủ đề bài báo có liên quan đến mối quan tâm của họ không?  
@@ -26,7 +26,7 @@ Cố gắng xác định: tác giả là ai? Họ quan tâm đến điều gì? 
 - Dữ liệu nói lên điều gì?
 
 **5. Hiểu định dạng trình bày của bài báo**  
-![Bảng 2](static/uploads/media/table2.png "table2")
+![Bảng 2](uploads/media/table2.png "table2")
 
 **6. Biết nhìn nhận một cách phản biện**  
 Cân nhắc kỹ nội dung bài báo — không phải lúc nào cũng đúng 100%. Đây cũng là một kỹ năng khó để luyện tập.
