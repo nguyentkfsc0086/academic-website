@@ -40,7 +40,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nguyentran04/
 
-Quan tâm đến:
+interests:
   - Sinh học tính toán
   - Thống kê sinh học
   - Học máy
