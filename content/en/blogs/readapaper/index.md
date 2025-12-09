@@ -8,7 +8,7 @@ tags:
 There is 10 rules for reading a scientific paper:\
 **1: Pick your goal**\
 Why should I read this paper, there is a table that list the things we should priority depence on the reason that we read the paper. 
-![Table 1](table1.png "table")
+![Table 1](static/uploads/media/table1.png "table")
 **2: Understand the author's goal**\
 Try to identify the author, who are they? What are they interested? Is the topic of the paper related with their interested?\
 Ask more question, what kind of aricle is this? What is the journal?\
@@ -22,7 +22,7 @@ Need to ask myself
 **4: Analyse the figure and table**\
 Try to understand the figures and tables. Like what is it presenting? What is the meaning of the x or y axis? What is the data meaning?\
 **5: Understand of the formatting**\
-![Table 2](table2.png "table2")
+![Table 2](static/uploads/media/table2.png "table2")
 **6: Be critical**\
 Consider the content of the paper you read? It might be not 100% true.
 It is a tough skill to learn as well.\
