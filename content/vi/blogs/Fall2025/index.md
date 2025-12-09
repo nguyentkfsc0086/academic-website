@@ -1,6 +1,6 @@
 ---
 title: Thu 2025
-date: 2025-12-9
+date: 2025-12-05
 type: post
 tags:
     - personal

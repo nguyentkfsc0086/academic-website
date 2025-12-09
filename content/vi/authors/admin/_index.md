@@ -47,9 +47,8 @@ Quan tâm đến:
   - Mô hình toán học
 
 work:
-  - position: "[Trợ lý nghiên cứu (Research Assistant) về Khoa học dữ liệu sinh y học](https://rdmelamed.github.io/)"
+  - position: Trợ lý nghiên cứu (Research Assistant) về Khoa học dữ liệu sinh y học
     company_name: "Khoa Sinh học, Đại học Massachusetts Lowell"
-    
     date_start: "2025-06-15"
     date_end: ""
     summary: |2-
