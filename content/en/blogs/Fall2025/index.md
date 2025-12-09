@@ -1,6 +1,6 @@
 ---
 title: Fall 2025
-date: 2025-12-22
+date: 2025-12-9
 type: post
 tags:
     - personal
