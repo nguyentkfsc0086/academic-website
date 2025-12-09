@@ -41,10 +41,9 @@ profiles:
     url: https://www.linkedin.com/in/nguyentran04/
 
 interests:
-  - Sinh học tính toán
   - Thống kê sinh học
   - Học máy
-  - Mô hình toán học
+  - Mô hình thống kê
 
 work:
   - position: Trợ lý nghiên cứu (Research Assistant) về Khoa học dữ liệu sinh y học
