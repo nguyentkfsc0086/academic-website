@@ -26,7 +26,7 @@ Cố gắng xác định: tác giả là ai? Họ quan tâm đến điều gì? 
 - Dữ liệu nói lên điều gì?
 
 **5. Hiểu định dạng trình bày của bài báo**  
-![Bảng 2](uploads/media/table2.png "table2")
+![Bảng 2](/uploads/media/table2.png "table2")
 
 **6. Biết nhìn nhận một cách phản biện**  
 Cân nhắc kỹ nội dung bài báo — không phải lúc nào cũng đúng 100%. Đây cũng là một kỹ năng khó để luyện tập.
