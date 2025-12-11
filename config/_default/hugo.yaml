@@ -67,3 +67,7 @@ security:
 
 sitemap:
   _merge: deep
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
