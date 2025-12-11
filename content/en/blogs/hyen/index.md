@@ -7,8 +7,14 @@ tags:
     - personal
     - relationship
 ---
-> "Every little things we had been through, need the sun to shine where we want it to" 
-> - July by The Cassette.
+> Every little things we had been through, need a sun to shine where we want it to  
+> – July by The Cassette.
+
+<audio controls style="width: 100%; margin-top: 1rem;">
+  <source src="/uploads/media/July.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 
 
 Gửi Hoàng Yến, \
