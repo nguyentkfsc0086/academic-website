@@ -11,7 +11,7 @@ tags:
 > – July by The Cassette.
 
 <audio controls style="width: 100%; margin-top: 1rem;">
-  <source src="/uploads/media/July.mp3" type="audio/mpeg">
+  <source src="/static/uploads/media/July.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
