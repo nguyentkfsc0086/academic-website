@@ -56,7 +56,7 @@ work:
     advisor: Rachel Melamed, PhD
     date_end: ''
     summary: |2-
-      Advisor (aka the person adopted me): [Rachel D. Melamed, PhD](https://www.uml.edu/umass-bmebt/faculty/melamed-rachel.aspx)
+      Advisor (aka my academic mother): [Rachel D. Melamed, PhD](https://www.uml.edu/umass-bmebt/faculty/melamed-rachel.aspx)
         - Implement PrediXcan method on 866 GTEx subjects to build models predicting gene expression at 15,044 genes across 103 tissues
         - Prepare and manage large-scale genotype datasets (270 GB VCF file)
         - Develop independent research plans and lead weekly 1-on-1 progress meetings with advisor
