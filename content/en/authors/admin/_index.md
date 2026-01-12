@@ -52,7 +52,7 @@ interests:
   - Statistical Modeling
 work:
   - position: STEM tutor
-    company_name:Department of Mathematics and Statistics, University of Massachusetts Lowell
+    company_name: Department of Mathematics and Statistics, University of Massachusetts Lowell
     date_start: 2026-01-02
     date_end: ''
     summary: |2-
