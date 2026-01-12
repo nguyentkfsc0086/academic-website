@@ -46,6 +46,12 @@ interests:
   - Mô hình thống kê
 
 work:
+  - position: Tutor Toán
+    company_name: Khoa Toán và Thống Kê, Đại học Massachusetts Lowell
+    date_start: 2026-01-02
+    date_end: ''
+    summary: |2-
+        - Phụ đạo toán và những môn liên quan về toán cho sinh viên đại học Massachusetts Lowell
   - position: Trợ lý nghiên cứu (Research Assistant) về Khoa học dữ liệu sinh y học
     company_name: "Khoa Sinh học, Đại học Massachusetts Lowell"
     date_start: "2025-06-15"
