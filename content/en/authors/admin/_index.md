@@ -51,6 +51,12 @@ interests:
   - Machine Learning
   - Statistical Modeling
 work:
+  - position: STEM tutor
+    company_name:Department of Mathematics and Statistics, University of Massachusetts Lowell
+    date_start: 2026-01-02
+    date_end: ''
+    summary: |2-
+        - Tutoring mathematics and other math related course for undergraduate students in the university of Massachusetts Lowell
   - position: Research Assistant in Biomedical Data Science
     company_name: Department of Biological Science, University of Massachusetts Lowell
     advisor: Rachel Melamed, PhD
@@ -108,7 +114,7 @@ education:
  
 
 # Awards.
-Awards:
+awards:
   - title: International Transfer Academic Achievement Award
     awarder: University of Massachusetts Lowell
     date: 2025-09-01
