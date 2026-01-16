@@ -1,5 +1,5 @@
 ---
-title: Leetcode
+title: Random leetcode
 date: 2025-12-09
 type: post
 tags:
