@@ -83,9 +83,11 @@ education:
     summary: |  
       Courses included:
         - Mathematics:
-          - Discrete Structure 1
+          - Real Analysis
+          - Probability and Mathematical Statistics
+          - Mathematical methods for Quantum errors correction
           - Partial Differential Equations
-          - Linear Algebra 2
+          - Linear Algebra
         - Computer Science:
           - Data Science for Biologist
           - Organization of Programing Languagues
