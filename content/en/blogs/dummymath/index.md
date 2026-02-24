@@ -8,7 +8,7 @@ tags:
 ---
 ### Random 1
 
-The unit step function `\(\sigma\)` is defined as
+The unit step function $(\sigma)$ is defined as
 
 {{< math >}}
 \[
@@ -32,7 +32,7 @@ f(x)=
 \]
 {{< /math >}}
 
-Express `\(f\)` as a linear transformation of the unit step function `\(\sigma\)`.
+Express $(f)$ as a linear transformation of the unit step function $(\sigma)$.
 
 
 `Solution`
