@@ -8,7 +8,9 @@ tags:
 ---
 ### Random 1
 
-The unit step function \( \sigma \) is defined as
+The unit step function `\(\sigma\)` is defined as
+
+{{< math >}}
 \[
 \sigma(x)=
 \begin{cases}
@@ -16,8 +18,11 @@ The unit step function \( \sigma \) is defined as
 0, & x < 0.
 \end{cases}
 \]
+{{< /math >}}
 
 Let
+
+{{< math >}}
 \[
 f(x)=
 \begin{cases}
@@ -25,13 +30,16 @@ f(x)=
 -3, & x < -1.
 \end{cases}
 \]
+{{< /math >}}
 
-Express \(f\) as a linear transformation of the unit step function \(\sigma\).
-(Hint: find \(a,b,\xi\) such that \(f(x)=a\sigma(x-\xi)+b\).)
+Express `\(f\)` as a linear transformation of the unit step function `\(\sigma\)`.
 
-## Solution
 
-A translation of \(\sigma(x)\) by \(\xi\) is
+`Solution`
+
+A translation of `\(\sigma(x)\)` by `\(\xi\)` is
+
+{{< math >}}
 \[
 \sigma(x-\xi)=
 \begin{cases}
@@ -39,22 +47,32 @@ A translation of \(\sigma(x)\) by \(\xi\) is
 0, & x < \xi.
 \end{cases}
 \]
+{{< /math >}}
 
-The function \(f(x)\) jumps at \(x=-1\), so we take \(\xi=-1\). Then
+The function `\(f(x)\)` jumps at `\(x=-1\)`, so take `\(\xi=-1\)`. Then
+
+{{< math >}}
 \[
 f(x)=a\,\sigma(x+1)+b.
 \]
+{{< /math >}}
 
-For \(x<-1\), we have \(\sigma(x+1)=0\), so \(f(x)=b=-3\).
+For `\(x<-1\)`, `\(\sigma(x+1)=0\)`, so `\(f(x)=b=-3\)`.
 
-For \(x\ge -1\), we have \(\sigma(x+1)=1\), so \(f(x)=a+b=2\).
+For `\(x\ge -1\)`, `\(\sigma(x+1)=1\)`, so `\(f(x)=a+b=2\)`.
 
 Thus,
+
+{{< math >}}
 \[
 b=-3,\qquad a+b=2 \implies a=5.
 \]
+{{< /math >}}
 
 Therefore,
+
+{{< math >}}
 \[
 \boxed{f(x)=5\sigma(x+1)-3.}
 \]
+{{< /math >}}
