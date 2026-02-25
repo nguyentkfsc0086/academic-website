@@ -76,3 +76,4 @@ Therefore,
 \boxed{f(x)=5\sigma(x+1)-3.}
 \]
 {{< /math >}}
+### Random 2
