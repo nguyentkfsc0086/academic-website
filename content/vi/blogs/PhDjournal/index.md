@@ -8,8 +8,7 @@ tags:
 # Nhật ký apply PhD
 
 ### 3/15/2026
-
-![static/uploads/media/Screenshot_2026-03-15_at_9.27.14_PM.png](Nh%E1%BA%ADt%20k%C3%BD%20apply%20PhD/Screenshot_2026-03-15_at_9.27.14_PM.png)
+![huhu](static/uploads/media/Screenshot_2026-03-15_at_9.27.14_PM.png)
 
 Heart-GeN Lab at Northwestern Feinberg school of Medicine. Hướng research của thầy PI khá là giống cô Rachel. Hy vọng là được nhận huhu.
 
