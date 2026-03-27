@@ -43,7 +43,7 @@ profiles:
 interests:
   - Thống kê sinh học
   - Học máy
-  - Mô hình thống kê
+  - Mô hình toán học và thống kê
 
 work:
   - position: Tutor Toán

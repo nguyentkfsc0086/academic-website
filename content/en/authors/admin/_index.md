@@ -49,7 +49,7 @@ profiles:
 interests:
   - Biostatistics
   - Machine Learning
-  - Statistical Modeling
+  - Mathematical and Statistical Modeling
 work:
   - position: Mathematics tutor
     company_name: Department of Mathematics and Statistics, University of Massachusetts Lowell
