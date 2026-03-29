@@ -48,9 +48,6 @@ CSV files found: ['/kaggle/input/heartdisease/Heart_Disease_Prediction.csv']
 ```
 
 
-```python
-
-```
 
 # Overview of the dataset
 
@@ -69,10 +66,6 @@ df_kaggle.head()
 | 3  | 64  | 1   | 4               | 128 | 263         | 0            | 0           | 105    | 1               | 0.2           | 2           | 1                        | 7        | Absence       |
 | 4  | 74  | 0   | 2               | 120 | 269         | 0            | 2           | 121    | 1               | 0.2           | 1           | 1                        | 3        | Absence       |
 
-
-```python
-
-```
 
 - Check if there is any `null` values across the dataset
 
@@ -103,10 +96,6 @@ df_kaggle.isna().sum()
 
 There is no `null` values so I think we can move to the regression models
 
-
-```python
-
-```
 
 ## Organize hugging face dataset
 
