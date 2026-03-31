@@ -77,19 +77,13 @@ Therefore,
 \]
 {{< /math >}}
 ### Random 2
----
-title: "Principal Component Analysis"
-date: 2026-03-31
-draft: false
-math: true
----
 
-## Principle Component Analysis
+#### Principle Component Analysis
 
 > In this document, **traits = features**.  
 > **iid** means **independent and identically distributed**.
 
-### Idea
+##### Idea
 
 Reduce the number of features while keeping the most important information.
 
@@ -99,9 +93,9 @@ A reasonable strategy is to:
 1. Work with the non-null features first (about 600 traits).
 2. Then extend the analysis to the remaining traits.
 
-## Implementation
+#### Implementation
 
-### Standardize the data
+##### Standardize the data
 
 Standardize each feature so that it has mean 0 and standard deviation 1:
 
@@ -119,7 +113,7 @@ where:
 
 The covariance matrix is:
 
-$$
+{{< math >}}
 A =
 \begin{pmatrix}
 \operatorname{Var}(X_1) & \operatorname{Cov}(X_1,X_2) & \cdots & \operatorname{Cov}(X_1,X_n) \\
@@ -127,7 +121,7 @@ A =
 \vdots & \vdots & \ddots & \vdots \\
 \operatorname{Cov}(X_n,X_1) & \operatorname{Cov}(X_n,X_2) & \cdots & \operatorname{Var}(X_n)
 \end{pmatrix}
-$$
+{{< math >}}
 
 Here, **Cov** means covariance.
 
@@ -137,7 +131,7 @@ $$
 \operatorname{Cov}(X,Y) = \frac{\sum_{i=1}^{n}(X_i - \bar X)(Y_i - \bar Y)}{n-1}
 $$
 
-## Find the principal components
+#### Find the principal components
 
 - **PC1**: direction of maximum variance
 - **PC2**: next best direction, perpendicular to PC1
@@ -145,7 +139,7 @@ $$
 - $\dots$
 - **PC(n)**: perpendicular to PC(n-1)
 
-### How do we find these directions?
+##### How do we find these directions?
 
 We use the covariance matrix.
 
