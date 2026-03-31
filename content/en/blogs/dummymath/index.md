@@ -114,13 +114,14 @@ where:
 The covariance matrix is:
 
 {{< math >}}
-A =
+\[ A =
 \begin{pmatrix}
 \operatorname{Var}(X_1) & \operatorname{Cov}(X_1,X_2) & \cdots & \operatorname{Cov}(X_1,X_n) \\
 \operatorname{Cov}(X_2,X_1) & \operatorname{Var}(X_2) & \cdots & \operatorname{Cov}(X_2,X_n) \\
 \vdots & \vdots & \ddots & \vdots \\
 \operatorname{Cov}(X_n,X_1) & \operatorname{Cov}(X_n,X_2) & \cdots & \operatorname{Var}(X_n)
 \end{pmatrix}
+\]
 {{< math >}}
 
 Here, **Cov** means covariance.
