@@ -53,7 +53,7 @@ interests:
 work:
   - position: Independent research in Mathematics
     company_name: Self employed
-    date_start: 2026-05-02
+    date_start: 2026-04-02
     date_end: ''
     summary: |2-
         - Advisor: [Shiwen Zhang, PhD.](https://www.uml.edu/sciences/mathematics/people/zhang-shiwen.aspx)
@@ -61,7 +61,7 @@ work:
 
   - position: Kennedy Summer Scholar
     company_name: Kennedy College of Science, University of Massachusetts Lowell
-    date_start: 2026-05-02
+    date_start: 2026-04-02
     date_end: ''
     summary: |2-
         - Starting soon
@@ -74,7 +74,7 @@ work:
         - Tutoring mathematics and other math related courses for undergraduate students in the University of Massachusetts Lowell
   - position: Research Assistant in Biomedical Data Science
     company_name: Department of Biological Science, University of Massachusetts Lowell
-    advisor: Rachel Melamed, PhD
+    date_start: 2025-05-02
     date_end: ''
     summary: |2-
       Advisor (aka my academic mother): [Rachel D. Melamed, PhD](https://www.uml.edu/umass-bmebt/faculty/melamed-rachel.aspx)

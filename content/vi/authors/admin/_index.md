@@ -47,14 +47,14 @@ interests:
 work:
   - position: Nghiên cứu độc lập về Toán
     company_name: Self employed
-    date_start: 2026-05-02
+    date_start: 2026-04-02
     date_end: ''
     summary: |2-
         - Advisor: [Shiwen Zhang, PhD.](https://www.uml.edu/sciences/mathematics/people/zhang-shiwen.aspx)
         - Ứng dụng của phương trình vi phân đạo hàm riêng (PDEs) và bước đi ngẫu nhiên (Random Walks) trong sinh học
   - position: Kennedy Summer Scholar
     company_name: Kennedy College of Science, University of Massachusetts Lowell
-    date_start: 2026-05-02
+    date_start: 2026-04-02
     date_end: ''
     summary: |2-
         - Starting soon
