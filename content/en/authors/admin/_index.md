@@ -36,7 +36,7 @@ profiles:
  # - icon: brands/x
    # url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/langtwcod0n/
+    url: https://www.instagram.com/langtwcodon/
   - icon: brands/github
     url: https://github.com/nguyentkfsc0086
   - icon: brands/linkedin
@@ -50,6 +50,21 @@ interests:
   - Biostatistics
   - Machine Learning
   - Mathematical and Statistical Modeling
+work:
+  - position: Independent research in Mathematics
+    company_name: Self employed
+    date_start: 2026-05-02
+    date_end: ''
+    summary: |2-
+        - Advisor: [Shiwen Zhang, PhD.](https://www.uml.edu/sciences/mathematics/people/zhang-shiwen.aspx)
+        - Study about application of Partial Differential Equations and Random Walks Models in Biology
+work:
+  - position: Kennedy Summer Scholar
+    company_name: Kennedy College of Science, University of Massachusetts Lowell
+    date_start: 2026-05-02
+    date_end: ''
+    summary: |2-
+        - Starting soon
 work:
   - position: Mathematics tutor
     company_name: Department of Mathematics and Statistics, University of Massachusetts Lowell

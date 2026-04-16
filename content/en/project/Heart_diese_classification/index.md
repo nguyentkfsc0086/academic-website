@@ -198,4 +198,4 @@ Text(0.5, 427.9555555555555, 'Predicted label')
 ![png](output_23_1.png)
 
 We can see that the model perform pretty got in kaggle dataset \
-The next step is evaluate it performance on the dataset it haven't learn before
+The next step is evaluate it performance on the dataset it haven't seen before
