@@ -52,14 +52,12 @@ work:
     summary: |2-
         - Advisor: [Shiwen Zhang, PhD.](https://www.uml.edu/sciences/mathematics/people/zhang-shiwen.aspx)
         - Ứng dụng của phương trình vi phân đạo hàm riêng (PDEs) và bước đi ngẫu nhiên (Random Walks) trong sinh học
-work:
   - position: Kennedy Summer Scholar
     company_name: Kennedy College of Science, University of Massachusetts Lowell
     date_start: 2026-05-02
     date_end: ''
     summary: |2-
         - Starting soon
-work:
   - position: Tutor Toán
     company_name: Khoa Toán và Thống Kê, Đại học Massachusetts Lowell
     date_start: 2026-01-02
