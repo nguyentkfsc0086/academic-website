@@ -64,7 +64,8 @@ work:
     date_start: 2026-04-02
     date_end: ''
     summary: |2-
-        - Starting soon
+        - Advisor (aka my academic mother): [Rachel D. Melamed, PhD](https://www.uml.edu/umass-bmebt/faculty/melamed-rachel.aspx)
+        - Project title: Understanding the affect of genetics variations in Alzheimer's Disease at Gene expression level
 
   - position: Mathematics tutor
     company_name: Department of Mathematics and Statistics, University of Massachusetts Lowell
