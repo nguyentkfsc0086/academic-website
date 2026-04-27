@@ -51,8 +51,8 @@ interests:
   - Machine Learning
   - Mathematical and Statistical Modeling
 work:
-  - position: Independent research in Mathematics
-    company_name: Self employed
+  - position: Independent fellow in Mathematics
+    company_name: Department of Mathematics and Statistics, University of Massachusetts Lowell
     date_start: 2026-04-02
     date_end: ''
     summary: |2-
@@ -60,19 +60,12 @@ work:
         - Study about application of Partial Differential Equations and Random Walks Models in Biology
 
   - position: Kennedy Summer Scholar
-    company_name: Kennedy College of Science, University of Massachusetts Lowell
+    company_name: Kennedy College of Sciences, University of Massachusetts Lowell
     date_start: 2026-04-02
     date_end: ''
     summary: |2-
         - Advisor (aka my academic mother): [Rachel D. Melamed, PhD](https://www.uml.edu/umass-bmebt/faculty/melamed-rachel.aspx)
         - Project title: Understanding the affect of genetics variations in Alzheimer's Disease at Gene expression level
-
-  - position: Mathematics tutor
-    company_name: Department of Mathematics and Statistics, University of Massachusetts Lowell
-    date_start: 2026-01-02
-    date_end: ''
-    summary: |2-
-        - Tutoring mathematics and other math related courses for undergraduate students in the University of Massachusetts Lowell
   - position: Research Assistant in Biomedical Data Science
     company_name: Department of Biological Science, University of Massachusetts Lowell
     date_start: 2025-05-02
@@ -82,7 +75,12 @@ work:
         - Implement PrediXcan method on 866 GTEx subjects to build models predicting gene expression at 15,044 genes across 103 tissues
         - Prepare and manage large-scale genotype datasets (270 GB VCF file)
         - Develop independent research plans and lead weekly 1-on-1 progress meetings with advisor
-
+  - position: Mathematics tutor
+    company_name: Department of Mathematics and Statistics, University of Massachusetts Lowell
+    date_start: 2026-01-02
+    date_end: ''
+    summary: |2-
+        - Tutoring mathematics and other math related courses for undergraduate students in the University of Massachusetts Lowell
   - position: STEM tutor
     company_name:
     date_start: 2025-07-02
