@@ -1,21 +1,12 @@
 ---
 title: "Analysis the relationship between number of death case diagnoised with HIV/AIDS and the age of the patients"
 author: "Nguyen Tran"
-date: "`r Sys.Date()`"
-output:
-  pdf_document:
-    latex_engine: xelatex
-  word_document: default
-  html_document:
-    df_print: paged
+date: 2026-04-26
 subtitle: |
   MATH 3850: Applied Statistics \
   Instructor: Prof. Guangming Jing
-output_dir: "/Users/nguyentran/Library/CloudStorage/OneDrive-Personal/Shool/UMass/Spring
-  2026/Applied Stats/HWs/"
 ---
-
-```{r setup, include=FALSE}
+```r
 library(dplyr)
 library(stringr)
 knitr::opts_chunk$set( #remember to change the figs/NEWNAME-, echo used to show code
@@ -35,28 +26,28 @@ There are 4 tables in the data set that I chose:
 
 ### Deaths of persons diagnosed with hiv/aids:
 
-```{R}
+```r
 death_person = read.csv("data/deaths-of-persons-diagnosed-with-hiv-aids.csv", header = T)
 head(death_person)
 ```
 
 ### hiv/aids data dictionary
 
-```{R}
+```r
 history = read.csv("data/hiv-aids-data-dictionary.csv", header = T)
 head(history)
 ```
 
 ### Persons living with HIV/AIDS
 
-```{R}
+```r
 person_with_hiv = read.csv("data/persons-living-with-hiv-aids.csv", header = T)
 head(person_with_hiv)
 ```
 
 ### Person diagnois with HIV/AIDS
 
-```{R}
+```r
 person_positive_hiv = read.csv("data/persons-newly-diagnosed-with-hiv.csv", header = T)
 head(person_positive_hiv)
 ```
@@ -73,7 +64,7 @@ To address this question, I will use `Linear regression` to analyse the relation
 
 Let recall the data that we interested:
 
-```{R}
+```r
 head(death_person)
 ```
 
@@ -101,7 +92,7 @@ As we can see, this data contain 4 columns:
 
 In this table, we only interested about `Age at Death (in years)`, `Group` and `Count`. So we will reorganize the table which only contain the data that we interested.
 
-```{R}
+```r
 # filter the columns that match the category `Age of death`
 data = death_person %>%
   filter(Category == "Age at Death (in years)") %>%
@@ -112,8 +103,7 @@ head(data)
 
 However, the age on the first columns are not `numerical`. So we will take the `mean` value of the group for further analysis
 
-```{r}
-
+```r
 data <- data %>%
   mutate(Age_mid = case_when(
     str_detect(Group, "to") ~ (
@@ -142,7 +132,7 @@ where $Y$ represents the number of deaths, $X$ represents the age (measured usin
 
 Now I will run the regression model
 
-```{r}
+```r
 model <- lm(total_deaths ~ Age_mid, data = data)
 
 summary(model)
@@ -152,7 +142,7 @@ The regression analysis shows that age is a significant predictor of the number 
 
 # Visualization
 
-```{r, fig.width=6, fig.height=4}
+```r
 plot(data$Age_mid, data$total_deaths,
      main = "Deaths Among Persons Diagnosed with HIV/AIDS by Age",
      xlab = "Age at Death (Midpoint)",
