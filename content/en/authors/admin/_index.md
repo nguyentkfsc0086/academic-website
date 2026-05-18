@@ -51,7 +51,7 @@ interests:
   - Machine Learning
   - Mathematical and Statistical Modeling
 work:
-  - position: Independent fellow in Mathematics
+  - position: Summer Undergrad Researcher
     company_name: Department of Mathematics and Statistics, University of Massachusetts Lowell
     date_start: 2026-04-02
     date_end: ''
@@ -64,14 +64,14 @@ work:
     date_start: 2026-04-02
     date_end: ''
     summary: |2-
-        - Advisor (aka my academic mother): [Rachel D. Melamed, PhD](https://www.uml.edu/umass-bmebt/faculty/melamed-rachel.aspx)
+        - Advisor: [Rachel D. Melamed, PhD](https://www.uml.edu/sciences/biology/people/melamed-rachel.aspx)
         - Project title: Understanding the affect of genetics variations in Alzheimer's Disease at Gene expression level
   - position: Research Assistant in Biomedical Data Science
     company_name: Department of Biological Science, University of Massachusetts Lowell
     date_start: 2025-05-02
     date_end: ''
     summary: |2-
-      Advisor (aka my academic mother): [Rachel D. Melamed, PhD](https://www.uml.edu/umass-bmebt/faculty/melamed-rachel.aspx)
+      Advisor (aka my academic mother): [Rachel D. Melamed, PhD](https://www.uml.edu/sciences/biology/people/melamed-rachel.aspx)
         - Implement PrediXcan method on 866 GTEx subjects to build models predicting gene expression at 15,044 genes across 103 tissues
         - Prepare and manage large-scale genotype datasets (270 GB VCF file)
         - Develop independent research plans and lead weekly 1-on-1 progress meetings with advisor
