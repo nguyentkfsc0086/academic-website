@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:nguyentrankhoi1201@gmail.com'
     label: Gửi email cho tôi
-  - icon: chess-knight
+  - icon: &#9822;
     url: https://www.chess.com/member/traitimtrantrui
   - icon: brands/github
     url: https://github.com/nguyentkfsc0086
