@@ -8,7 +8,7 @@ tags:
 ---
 
 <iframe 
-  src="static/pdf/Code.pdf" 
+  src="/static/pdf/Code.pdf" 
   width="100%" 
   height="700px">
 </iframe>
