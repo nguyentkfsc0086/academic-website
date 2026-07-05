@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: My resume
-        url: /uploads/Academic_Resume.pdf
+        url: /uploads/Nguyen_Resume.pdf
         icon: file-pdf
         icon_pack: fas
         new_tab: true

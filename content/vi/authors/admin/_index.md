@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:nguyentrankhoi1201@gmail.com'
     label: Gửi email cho tôi
-  - icon: brands/instagram
-    url: https://www.instagram.com/langtwcond0n
+  - icon: solid/chess-knight
+    url: https://www.chess.com/member/traitimtrantrui
   - icon: brands/github
     url: https://github.com/nguyentkfsc0086
   - icon: brands/linkedin

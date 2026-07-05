@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
  # - icon: brands/x
    # url: https://twitter.com/GetResearchDev
-  - icon: simple-icons/chessdotcom
+  - icon: solid/chess-knight
     url: https://www.chess.com/member/traitimtrantrui
   - icon: brands/github
     url: https://github.com/nguyentkfsc0086
