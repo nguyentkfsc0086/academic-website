@@ -17,12 +17,12 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /uploads/Academic_Resume.pdf
+        url: /uploads/Nguyen_Resume.pdf
         icon: file-pdf
         icon_pack: fas
         new_tab: true
     design:
-      css_class: /Users/nguyentran/Library/CloudStorage/OneDrive-Personal/academic-website/assets/themes/blue.css
+      css_class: assets/themes/blue.css
       background:
         color: blue
         image:

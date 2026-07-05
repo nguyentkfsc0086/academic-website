@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
  # - icon: brands/x
    # url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/langtwcodon/
+  - icon: simple-icons/chessdotcom
+    url: https://www.chess.com/member/traitimtrantrui
   - icon: brands/github
     url: https://github.com/nguyentkfsc0086
   - icon: brands/linkedin
@@ -97,11 +97,12 @@ education:
     summary: |  
       Courses included:
         - Mathematics:
+          - Optimization
+          - Applied Linear Algebra
           - Real Analysis
           - Probability and Mathematical Statistics
           - Mathematical methods for Quantum errors correction
           - Partial Differential Equations
-          - Linear Algebra
         - Computer Science:
           - Data Science for Biologist
           - Organization of Programing Languagues
@@ -131,6 +132,12 @@ education:
 
 # Awards.
 awards:
+  - title: Kennedy Summer Scholar
+    awarder: Kennedy College of Science, UMass Lowell
+    date: 2026-05-31
+  - title: Moloney Scholarship
+    awarder: University of Massachusetts Lowell
+    date: 2025-08-31  
   - title: International Transfer Academic Achievement Award
     awarder: University of Massachusetts Lowell
     date: 2025-09-01
