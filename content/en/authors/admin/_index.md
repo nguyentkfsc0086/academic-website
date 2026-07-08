@@ -151,4 +151,4 @@ awards:
 
 ## About Me
 
-Hi I'm Nguyen and I come from Cantho, Vietnam. I’m a junior at the University of Massachusetts Lowell study in Applied Mathematics and Statistics. I’m passionate about applying statistical and computational methods to the fields of Biology and Healthcare. Fun fact, I love Heytea's Coconut Mango Boom and Bún bò Huế.
+Hello, welcome to my litle corner on the internet. I'm Nguyen and I come from Cantho, Vietnam. I’m an undergraduate student at the University of Massachusetts Lowell study in Applied Mathematics and Statistics. I’m passionate about applying statistical and computational methods to the fields of Biology and Public Health.  I have a huge love with Heytea's Coconut Mango Boom and Bún bò Huế.
