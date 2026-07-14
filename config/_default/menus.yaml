@@ -10,9 +10,9 @@ main:
   - name: Projects
     url: projects/
     weight: 3
-  # - name: Blogs
-  #   url: blogs/
-  #   weight: 5
-  # - name: List 100
-  #   url: list-100/
-  #   weight: 6
+  - name: Blogs
+    url: blogs/
+    weight: 5
+  - name: List 100
+    url: list-100/
+    weight: 6
