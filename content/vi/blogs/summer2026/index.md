@@ -1,4 +1,4 @@
-
+---
 title: Khùng điên mùa hè 2026 hihi
 date: 2026-7-16
 type: post
