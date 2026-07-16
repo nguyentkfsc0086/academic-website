@@ -1,6 +1,6 @@
 ---
 title: Khùng điên hè 2026 hihi
-date: 2026-16-07
+date: 2026-15-07
 type: post
 tags:
     - personal
