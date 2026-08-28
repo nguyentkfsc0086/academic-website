@@ -45,20 +45,23 @@ interests:
   - Học máy
   - Mô hình toán học và thống kê
 work:
-  - position: Nghiên cứu độc lập về Toán
-    company_name: Khoa Toán và Thống Kê, Đại học Masschusetts Lowell
+  - position: Nghiên cứu hè – Toán học ứng dụng
+    company_name: Khoa Toán và Thống kê, Đại học Massachusetts Lowell
     date_start: 2026-04-02
     date_end: ''
     summary: |2-
-        - Giáo sư hướng dẫn: [Tiến sĩ Shiwen Zhang](https://www.uml.edu/sciences/mathematics/people/zhang-shiwen.aspx)
-        - Ứng dụng của phương trình vi phân đạo hàm riêng (PDEs) và bước đi ngẫu nhiên (Random Walks) trong sinh học
+        - Người hướng dẫn: [Shiwen Zhang, PhD](https://www.uml.edu/sciences/mathematics/people/zhang-shiwen.aspx)
+        - Thực hiện nghiên cứu độc lập về bước đi ngẫu nhiên, hiện tượng khuếch tán và phương trình truyền nhiệt, hướng đến các ứng dụng trong sinh học toán.
+        - Tìm hiểu mối liên hệ giữa quá trình ngẫu nhiên, phương trình vi phân riêng phần và các mô hình toán học trong sinh học.
+
   - position: Kennedy Summer Scholar
-    company_name: Trường Khoa Học Kennedy, Đại học Massachusett Lowell
+    company_name: Kennedy College of Sciences, Đại học Massachusetts Lowell
     date_start: 2026-04-02
     date_end: ''
     summary: |2-
-        - Giáo sư hướng dẫn: Tiến sĩ [Rachel D. Melamed](https://www.uml.edu/sciences/biology/people/melamed-rachel.aspx)
-        - Dự án: Phân tích sự ảnh hưởng của biến thể gene lên bệnh Alzhiemer's
+        - Người hướng dẫn: [Rachel D. Melamed, PhD](https://www.uml.edu/sciences/biology/people/melamed-rachel.aspx)
+        - Dự án: Tìm hiểu ảnh hưởng của các biến thể di truyền đến bệnh Alzheimer thông qua biểu hiện gen.
+        - Phân tích dữ liệu lâm sàng và dữ liệu di truyền từ ADNI, sử dụng GWAS và eQTL để nghiên cứu các biến thể di truyền liên quan đến bệnh Alzheimer.
   - position: Tutor Toán
     company_name: Khoa Toán và Thống Kê, Đại học Massachusetts Lowell
     date_start: 2026-01-02

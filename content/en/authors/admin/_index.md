@@ -51,13 +51,14 @@ interests:
   - Machine Learning
   - Mathematical and Statistical Modeling
 work:
-  - position: Summer Undergrad Researcher
+  - position: Summer Undergraduate Researcher
     company_name: Department of Mathematics and Statistics, University of Massachusetts Lowell
     date_start: 2026-04-02
     date_end: ''
     summary: |2-
-        - Advisor: [Shiwen Zhang, PhD.](https://www.uml.edu/sciences/mathematics/people/zhang-shiwen.aspx)
-        - Study about application of Partial Differential Equations and Random Walks Models in Biology
+        - Advisor: [Shiwen Zhang, PhD](https://www.uml.edu/sciences/mathematics/people/zhang-shiwen.aspx)
+        - Conducting an independent study on random walks, diffusion, and the heat equation, with applications to mathematical biology.
+        - Studying connections between stochastic processes, partial differential equations, and biological modeling.
 
   - position: Kennedy Summer Scholar
     company_name: Kennedy College of Sciences, University of Massachusetts Lowell
@@ -65,7 +66,8 @@ work:
     date_end: ''
     summary: |2-
         - Advisor: [Rachel D. Melamed, PhD](https://www.uml.edu/sciences/biology/people/melamed-rachel.aspx)
-        - Project title: Understanding the affect of genetics variations in Alzheimer's Disease at Gene expression level
+        - Project: Understanding the Effects of Genetic Variation on Alzheimer's Disease Through Gene Expression.
+        - Analyzing ADNI clinical and genetic data using association studies, genome-wide association studies (GWAS), and eQTL analysis to investigate genetic factors associated with Alzheimer's disease.
   - position: Research Assistant in Biomedical Data Science
     company_name: Department of Biological Science, University of Massachusetts Lowell
     date_start: 2025-05-02
