@@ -1,7 +1,7 @@
 ---
 title: "GWAS: My Learning Notes"
-date: 2026-26-08
-type: post
+date: 2026-08-27T21:00:00-04:00
+lastmod: 2026-08-27T21:00:00-04:00
 tag: 
     - Biostatistics
 
@@ -317,7 +317,9 @@ genotype of a variant was associated with the phenotype.
 
 A simplified model is
 
-$$
+{{< math >}}
+
+\[
 Y_i =
 \beta_0
 +
@@ -330,19 +332,29 @@ Y_i =
 \sum_{j=1}^{10}\gamma_j PC_{ji}
 +
 \epsilon_i.
-$$
+\]
+
+{{< /math >}}
 
 The hypothesis test for the SNP effect is
 
-$$
+{{< math >}}
+
+\[
 H_0:\beta_{\mathrm{SNP}}=0
-$$
+\]
+
+{{< /math >}}
 
 versus
 
-$$
+{{< math >}}
+
+\[
 H_A:\beta_{\mathrm{SNP}}\neq0.
-$$
+\]
+
+{{< /math >}}
 
 The null hypothesis says that, conditional on the covariates in the model, the
 variant is not associated with the phenotype.
