@@ -377,7 +377,9 @@ encountered a model with additional covariates and interaction terms.
 
 For gray matter volume, the model had the form
 
-$$
+{{< math >}}
+
+\[
 \begin{aligned}
 \mathrm{GrayMatterVolume}_i
 ={}&
@@ -403,7 +405,9 @@ $$
 +
 \epsilon_i.
 \end{aligned}
-$$
+\]
+
+{{< /math >}}
 
 Here, TBV represents total brain volume and the genetic principal components
 were included to account for population structure.
