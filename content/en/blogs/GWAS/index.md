@@ -24,7 +24,6 @@ toc: true
 featured: false
 ---
 
-> [!NOTE]
 > This is my personal learning note, not a standard procedure for conducting a GWAS.
 > The scripts here are adapted from code I used on my university's high-performance
 > computing cluster (HPC), so some commands, file paths, software modules, or
@@ -612,102 +611,6 @@ plt.title("Manhattan Plot")
 plt.tight_layout()
 plt.show()
 ```
-
-<!-- TODO: Replace this comment with a Manhattan plot from the final analysis. -->
-
-## What I Learned
-
-These are some of the main ideas that became clearer to me while working
-through a GWAS analysis.
-
-### 1. The statistical idea behind GWAS is relatively simple
-
-For a quantitative trait, I can think of GWAS as repeatedly fitting a
-regression model in which the SNP genotype is one of the predictors.
-
-The scale of the analysis is what makes GWAS challenging: this test may be
-repeated for millions of variants.
-
-### 2. Much of the work happens before the regression
-
-Before I could interpret a single p-value, I had to deal with tasks such as
-
-- converting genotype files,
-- matching sample IDs,
-- preparing phenotypes,
-- preparing covariates,
-- performing QC,
-- LD pruning,
-- PCA.
-
-This made me realize that data preparation is a major part of a genetic
-association analysis.
-
-### 3. Population structure matters
-
-Genetic differences between groups of individuals can create confounding if
-population structure is associated with both allele frequencies and the
-phenotype.
-
-Using genetic principal components as covariates helped me understand how PCA
-connects a familiar mathematical technique with a practical statistical
-genetics problem.
-
-### 4. A small p-value is not the whole story
-
-A p-value is evidence about a statistical association under a model. It does
-not directly tell me whether an effect is large, biologically important, or
-causal.
-
-When comparing results across datasets, I also found it useful to examine the
-estimated effect size, effect allele, and direction rather than looking only at
-whether a variant crossed a significance threshold.
-
-### 5. Model specification matters
-
-The covariates and interaction terms included in an analysis can change the
-estimated association and the number of usable samples.
-
-The appropriate model should therefore come from the scientific question and
-study design rather than from adding every available variable.
-
-## After GWAS: What Next?
-
-Finding a statistically associated variant is often only the beginning.
-
-A GWAS result does not immediately explain which gene is affected or what
-biological mechanism connects the variant to the phenotype.
-
-Two ideas that I encountered after learning the basic GWAS workflow were
-**eQTL analysis** and **gene-based analysis**.
-
-### eQTLs
-
-An expression quantitative trait locus (eQTL) analysis asks whether genetic
-variation is associated with gene-expression levels.
-
-Conceptually, this creates a possible bridge
-
-$$
-\text{genetic variant}
-\longrightarrow
-\text{gene expression}
-\longrightarrow
-\text{biological interpretation}.
-$$
-
-In my project, one of the next questions after identifying GWAS variants was
-whether those variants were also associated with the expression of particular
-genes.
-
-### Gene-based analysis
-
-I also encountered tools such as **MAGMA**, which can aggregate
-variant-level association information into gene-level analyses.
-
-I consider both eQTL analysis and gene-based analysis separate topics from the
-basic GWAS workflow, so I may write more detailed learning notes about them in
-the future.
 
 ## References
 
