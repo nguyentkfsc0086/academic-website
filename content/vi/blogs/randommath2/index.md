@@ -40,6 +40,8 @@ u_n(0)
 
 {{< /math >}}
 
+Here, {{< math >}}\(u_n(t)\){{< /math >}} represents the density or concentration at lattice site {{< math >}}\(n\){{< /math >}} at time {{< math >}}\(t\){{< /math >}}.
+
 Define
 
 {{< math >}}
@@ -57,12 +59,14 @@ Then the infinite system can be written as
 {{< math >}}
 
 \[
-\mathbf{u}'(t)=A\mathbf{u}(t),
+\mathbf{u}'(t)
+=
+A\mathbf{u}(t),
 \]
 
 {{< /math >}}
 
-where the discrete Laplacian operator \(A\) is defined componentwise by
+where the discrete Laplacian operator {{< math >}}\(A\){{< /math >}} is defined componentwise by
 
 {{< math >}}
 
@@ -83,19 +87,23 @@ Assume a separated solution of the form
 {{< math >}}
 
 \[
-\mathbf{u}(t)=c(t)\mathbf{v},
+\mathbf{u}(t)
+=
+c(t)\mathbf{v},
 \]
 
 {{< /math >}}
 
-where \(\mathbf{v}\) is independent of time.
+where {{< math >}}\(\mathbf{v}\){{< /math >}} is a spatial profile that is independent of time, while {{< math >}}\(c(t)\){{< /math >}} describes how its magnitude changes with time.
 
-Substituting this into
+Substituting into
 
 {{< math >}}
 
 \[
-\mathbf{u}'(t)=A\mathbf{u}(t)
+\mathbf{u}'(t)
+=
+A\mathbf{u}(t)
 \]
 
 {{< /math >}}
@@ -112,7 +120,7 @@ c(t)A\mathbf{v}.
 
 {{< /math >}}
 
-For the spatial profile \(\mathbf{v}\) to remain fixed as time changes, \(A\mathbf{v}\) must be proportional to \(\mathbf{v}\). Therefore,
+For the spatial profile {{< math >}}\(\mathbf{v}\){{< /math >}} to remain fixed as time changes, {{< math >}}\(A\mathbf{v}\){{< /math >}} must be proportional to {{< math >}}\(\mathbf{v}\){{< /math >}}. Therefore,
 
 {{< math >}}
 
@@ -143,7 +151,13 @@ Equivalently,
 {{< math >}}
 
 \[
-v_{n+1}-(2+\lambda)v_n+v_{n-1}=0.
+v_{n+1}
+-
+(2+\lambda)v_n
++
+v_{n-1}
+=
+0.
 \]
 
 {{< /math >}}
@@ -167,12 +181,18 @@ Substituting this into the recurrence gives
 {{< math >}}
 
 \[
-r^{n+1}-(2+\lambda)r^n+r^{n-1}=0.
+r^{n+1}
+-
+(2+\lambda)r^n
++
+r^{n-1}
+=
+0.
 \]
 
 {{< /math >}}
 
-Dividing by \(r^{n-1}\), we obtain the characteristic equation
+Dividing by {{< math >}}\(r^{n-1}\){{< /math >}}, we obtain
 
 {{< math >}}
 
@@ -182,7 +202,9 @@ r^2-(2+\lambda)r+1=0.
 
 {{< /math >}}
 
-If the two roots are \(r_1\) and \(r_2\), then
+This is the characteristic equation.
+
+If the roots are {{< math >}}\(r_1\){{< /math >}} and {{< math >}}\(r_2\){{< /math >}}, then their product is
 
 {{< math >}}
 
@@ -192,7 +214,7 @@ r_1r_2=1.
 
 {{< /math >}}
 
-Therefore, the roots may be written as
+Therefore, the two roots may be written as
 
 {{< math >}}
 
@@ -226,7 +248,7 @@ To obtain bounded oscillatory modes on the entire infinite lattice, we consider
 
 {{< /math >}}
 
-Thus, we write
+Hence, we write
 
 {{< math >}}
 
@@ -276,9 +298,9 @@ e^{in\theta},
 
 {{< /math >}}
 
-the modes are periodic in \(\theta\) with period \(2\pi\).
+the Fourier modes are periodic in {{< math >}}\(\theta\){{< /math >}} with period {{< math >}}\(2\pi\){{< /math >}}.
 
-Therefore, it is sufficient to consider
+Therefore, it is sufficient to consider one interval of length {{< math >}}\(2\pi\){{< /math >}}, for example
 
 {{< math >}}
 
@@ -290,7 +312,7 @@ Therefore, it is sufficient to consider
 
 ---
 
-### Eigenvalue as a Function of \(\theta\)
+### Eigenvalue as a Function of Theta
 
 Consider one Fourier mode
 
@@ -304,7 +326,7 @@ e^{in\theta}.
 
 {{< /math >}}
 
-Then
+Applying the discrete Laplacian gives
 
 {{< math >}}
 
@@ -348,7 +370,9 @@ Therefore,
 
 \[
 \boxed{
-\lambda(\theta)=2\cos\theta-2.
+\lambda(\theta)
+=
+2\cos\theta-2.
 }
 \]
 
@@ -374,7 +398,7 @@ we obtain
 
 {{< /math >}}
 
-Thus, \(\theta\) determines the spatial oscillation of the mode, while \(\lambda(\theta)\) determines how quickly that mode changes in time.
+Thus, {{< math >}}\(\theta\){{< /math >}} determines the spatial oscillation of the mode, while {{< math >}}\(\lambda(\theta)\){{< /math >}} determines its rate of change in time.
 
 ---
 
@@ -452,7 +476,7 @@ Since
 
 {{< /math >}}
 
-the time factor associated with the mode \(\theta\) is
+the time factor associated with the mode {{< math >}}\(\theta\){{< /math >}} is
 
 {{< math >}}
 
@@ -491,19 +515,9 @@ u_n(0)
 
 {{< /math >}}
 
-Therefore, many modes must be combined.
+Therefore, many Fourier modes must be combined.
 
-For a discrete collection of values
-
-{{< math >}}
-
-\[
-\theta_1,\theta_2,\ldots,
-\]
-
-{{< /math >}}
-
-we may write
+For a discrete collection of parameters {{< math >}}\(\theta_i\){{< /math >}}, we may write
 
 {{< math >}}
 
@@ -518,7 +532,9 @@ v_n^{(\theta_i)}.
 
 {{< /math >}}
 
-However, in the infinite-lattice problem, the parameter \(\theta\) varies continuously over
+Here, each value {{< math >}}\(\theta_i\){{< /math >}} corresponds to a different spatial mode, and {{< math >}}\(C_i\){{< /math >}} represents the weight of that mode.
+
+However, in the infinite-lattice problem, {{< math >}}\(\theta\){{< /math >}} varies continuously over the interval
 
 {{< math >}}
 
@@ -528,7 +544,9 @@ However, in the infinite-lattice problem, the parameter \(\theta\) varies contin
 
 {{< /math >}}
 
-Divide this interval into \(N\) equal pieces. The width of each piece is
+Divide this interval into {{< math >}}\(N\){{< /math >}} equal pieces.
+
+Since the total length of the interval is {{< math >}}\(2\pi\){{< /math >}}, the width of each piece is
 
 {{< math >}}
 
@@ -540,7 +558,7 @@ Divide this interval into \(N\) equal pieces. The width of each piece is
 
 {{< /math >}}
 
-The discrete coefficient \(C_i\) may then be interpreted as
+We interpret the discrete coefficient {{< math >}}\(C_i\){{< /math >}} as
 
 {{< math >}}
 
@@ -552,7 +570,7 @@ C(\theta_i)\Delta\theta,
 
 {{< /math >}}
 
-where \(C(\theta)\) represents the coefficient density associated with the mode corresponding to \(\theta\).
+where {{< math >}}\(C(\theta)\){{< /math >}} represents the coefficient density associated with the Fourier mode corresponding to {{< math >}}\(\theta\){{< /math >}}.
 
 Thus,
 
@@ -569,6 +587,8 @@ v_n^{(\theta_i)}
 \]
 
 {{< /math >}}
+
+This expression has the form of a Riemann sum.
 
 As
 
@@ -600,6 +620,8 @@ v_n^{(\theta)}
 
 {{< /math >}}
 
+Thus, the integral represents a continuous superposition of all Fourier modes.
+
 Since
 
 {{< math >}}
@@ -612,7 +634,7 @@ e^{in\theta},
 
 {{< /math >}}
 
-this becomes
+we obtain
 
 {{< math >}}
 
@@ -628,21 +650,13 @@ e^{in\theta}
 
 {{< /math >}}
 
+The remaining problem is to determine the coefficient function {{< math >}}\(C(\theta)\){{< /math >}} from the initial condition.
+
 ---
 
 ### Fourier Transform
 
-For the sequence
-
-{{< math >}}
-
-\[
-\{u_n(t)\}_{n\in\mathbb{Z}},
-\]
-
-{{< /math >}}
-
-define the discrete Fourier transform by
+For the sequence {{< math >}}\(\{u_n(t)\}_{n\in\mathbb{Z}}\){{< /math >}}, define the discrete Fourier transform by
 
 {{< math >}}
 
@@ -671,7 +685,7 @@ e^{in\theta}
 
 {{< /math >}}
 
-Recall that the modal representation is
+Recall the modal representation
 
 {{< math >}}
 
@@ -687,7 +701,9 @@ e^{in\theta}
 
 {{< /math >}}
 
-Comparing the coefficients of the same mode \(e^{in\theta}\), we obtain
+Both expressions represent {{< math >}}\(u_n(t)\){{< /math >}} as a continuous superposition of the same Fourier modes {{< math >}}\(e^{in\theta}\){{< /math >}}.
+
+Comparing the coefficients of these modes gives
 
 {{< math >}}
 
@@ -701,7 +717,7 @@ e^{(2\cos\theta-2)t}
 
 {{< /math >}}
 
-Setting \(t=0\),
+Setting {{< math >}}\(t=0\){{< /math >}}, we obtain
 
 {{< math >}}
 
@@ -713,6 +729,8 @@ C(\theta)
 \]
 
 {{< /math >}}
+
+Therefore, the initial condition determines {{< math >}}\(C(\theta)\){{< /math >}} through its Fourier transform.
 
 ---
 
@@ -730,7 +748,7 @@ u_n(0)
 
 {{< /math >}}
 
-Therefore,
+Its Fourier transform is
 
 {{< math >}}
 
@@ -749,7 +767,9 @@ u_n(0)e^{-in\theta}
 
 {{< /math >}}
 
-Since \(\delta_{n0}=0\) for every \(n\neq0\), only the \(n=0\) term remains:
+Since {{< math >}}\(\delta_{n0}=0\){{< /math >}} whenever {{< math >}}\(n\neq0\){{< /math >}}, every term vanishes except the term corresponding to {{< math >}}\(n=0\){{< /math >}}.
+
+Therefore,
 
 {{< math >}}
 
@@ -763,25 +783,44 @@ e^{-i(0)\theta}
 
 {{< /math >}}
 
+Hence,
+
+{{< math >}}
+
+\[
+\boxed{
+\widehat{u}(\theta,0)
+=
+1.
+}
+\]
+
+{{< /math >}}
+
+It follows that
+
+{{< math >}}
+
+\[
+C(\theta)
+=
+\frac{1}{2\pi}
+\widehat{u}(\theta,0)
+=
+\frac{1}{2\pi}.
+\]
+
+{{< /math >}}
+
 Thus,
 
 {{< math >}}
 
 \[
 \boxed{
-\widehat{u}(\theta,0)=1.
-}
-\]
-
-{{< /math >}}
-
-Therefore,
-
-{{< math >}}
-
-\[
-\boxed{
-C(\theta)=\frac{1}{2\pi}.
+C(\theta)
+=
+\frac{1}{2\pi}.
 }
 \]
 
@@ -796,7 +835,9 @@ Substituting
 {{< math >}}
 
 \[
-C(\theta)=\frac{1}{2\pi}
+C(\theta)
+=
+\frac{1}{2\pi}
 \]
 
 {{< /math >}}
@@ -833,7 +874,7 @@ e^{-2t}e^{2t\cos\theta},
 
 {{< /math >}}
 
-we may also write
+we may rewrite the solution as
 
 {{< math >}}
 
@@ -849,7 +890,7 @@ e^{in\theta}
 
 {{< /math >}}
 
-Using
+Using Euler's formula,
 
 {{< math >}}
 
@@ -863,7 +904,81 @@ i\sin(n\theta),
 
 {{< /math >}}
 
-the imaginary part is odd in \(\theta\) and integrates to zero over the symmetric interval \([-\pi,\pi]\).
+we obtain
+
+{{< math >}}
+
+\[
+e^{2t\cos\theta}e^{in\theta}
+=
+e^{2t\cos\theta}\cos(n\theta)
++
+i\,e^{2t\cos\theta}\sin(n\theta).
+\]
+
+{{< /math >}}
+
+The factor {{< math >}}\(e^{2t\cos\theta}\){{< /math >}} is even in {{< math >}}\(\theta\){{< /math >}}, while {{< math >}}\(\sin(n\theta)\){{< /math >}} is odd in {{< math >}}\(\theta\){{< /math >}}. Therefore,
+
+{{< math >}}
+
+\[
+e^{2t\cos\theta}\sin(n\theta)
+\]
+
+{{< /math >}}
+
+is an odd function.
+
+Its integral over the symmetric interval {{< math >}}\([-\pi,\pi]\){{< /math >}} is therefore zero:
+
+{{< math >}}
+
+\[
+\int_{-\pi}^{\pi}
+e^{2t\cos\theta}
+\sin(n\theta)
+\,d\theta
+=
+0.
+\]
+
+{{< /math >}}
+
+Hence, only the real part remains:
+
+{{< math >}}
+
+\[
+u_n(t)
+=
+\frac{e^{-2t}}{2\pi}
+\int_{-\pi}^{\pi}
+e^{2t\cos\theta}
+\cos(n\theta)
+\,d\theta.
+\]
+
+{{< /math >}}
+
+The remaining integrand is even, so
+
+{{< math >}}
+
+\[
+\int_{-\pi}^{\pi}
+e^{2t\cos\theta}
+\cos(n\theta)
+\,d\theta
+=
+2
+\int_0^\pi
+e^{2t\cos\theta}
+\cos(n\theta)
+\,d\theta.
+\]
+
+{{< /math >}}
 
 Therefore,
 
@@ -899,7 +1014,7 @@ e^{2t\cos\theta}
 
 {{< /math >}}
 
-Hence,
+Therefore,
 
 {{< math >}}
 
@@ -913,7 +1028,7 @@ e^{-2t}I_{|n|}(2t).
 
 {{< /math >}}
 
-Therefore, the solution of the infinite-lattice discrete diffusion problem
+Thus, the solution of the infinite-lattice discrete diffusion problem
 
 {{< math >}}
 
