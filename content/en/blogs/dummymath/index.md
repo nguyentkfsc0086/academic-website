@@ -1,5 +1,5 @@
 ---
-title: Random math
+title: Random math 1
 date: 2025-12-09
 type: post
 tags:
